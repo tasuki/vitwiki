@@ -1,6 +1,9 @@
 # Darktable, awesome but real confusing
 
+
 ## Lighttable
+
+Lighttable is for organizing the photo set.
 
 | Shortcut      | What it does                                           |
 |---------------|--------------------------------------------------------|
@@ -10,7 +13,10 @@
 | Ctrl A, 1 1   | Batch undo reject (apply 1 star, remove 1 star)        |
 | G (top right) | Collapse groups to select only jpeg/raw for eg styling |
 
+
 ## Darkroom
+
+Darkroom is for photo editing.
 
 ### Basics
 
@@ -27,3 +33,8 @@
 ### Optionals
 
 * color correction: make it orange, orange is cool
+
+
+## Files
+
+[style-basics.dtstyle](darktable/style-basics.dtstyle)
