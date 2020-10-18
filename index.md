@@ -7,4 +7,5 @@
 
 ## Keyboard Shortcuts
 
+* [IntelliJ IDEA](keyboard-shortcuts/intellij.md)
 * [Darktable](keyboard-shortcuts/darktable.md)
