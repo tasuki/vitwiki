@@ -2,9 +2,9 @@
 
 ## Cookbook
 
-* [Švestkové knedlíky](cook/svestkove-knedliky)
+* [Švestkové knedlíky](cook/svestkove-knedliky.md)
 
 
 ## Keyboard Shortcuts
 
-* [Darktable](keyboard-shortcuts/darktable)
+* [Darktable](keyboard-shortcuts/darktable.md)
