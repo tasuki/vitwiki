@@ -5,6 +5,9 @@
 * [Štrůdl](cook/strudl.md)
 * [Švestkové knedlíky](cook/svestkove-knedliky.md)
 
+## Drinkbook
+
+* [Tea](drink/tea.md)
 
 ## Keyboard Shortcuts
 
