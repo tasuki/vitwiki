@@ -9,6 +9,10 @@
 
 * [Tea](drink/tea.md)
 
+## Programming
+
+* [Learning to play games](prog/games.md)
+
 ## Keyboard Shortcuts
 
 * [IntelliJ IDEA](keyboard-shortcuts/intellij.md)
