@@ -9,9 +9,10 @@
 
 * [Tea](drink/tea.md)
 
-## Programming
+## Programming/computers
 
 * [Learning to play games](prog/games.md)
+* [My computers](prog/computers.md)
 
 ## Keyboard Shortcuts
 
