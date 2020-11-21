@@ -22,3 +22,7 @@
 
 * [IntelliJ IDEA](keyboard-shortcuts/intellij.md)
 * [Darktable](keyboard-shortcuts/darktable.md)
+
+## Relax
+
+* [Computer games](relax/computer-games.md)
