@@ -2,7 +2,7 @@
 
 Zamíchat:
 
-* 250g měkký tvaroh
+* 250g měkký tvaroh (ne mokrý)
 * 1 lžíce másla
 * 2 vejce
 * 1 špetka soli
