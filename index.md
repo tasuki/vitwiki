@@ -12,6 +12,7 @@
 
 ## Programming/computers
 
+* [Play to learn](prog/play.md)
 * [Online courses](prog/courses.md)
 * [Learning to play games](prog/games.md)
 * [My computers](prog/computers.md)
