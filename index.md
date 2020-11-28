@@ -20,6 +20,7 @@
 ## Learning
 
 * [Colourful Youtube channels](learn/youtube.md)
+* [Favourite podcasts](learn/podcasts.md)
 
 ## Keyboard Shortcuts
 
