@@ -15,7 +15,7 @@ Uhníst těsto, nechat přes noc v ledničce.
 
 ---
 
-Zabalit knedlíky, hodně vroucí voda, potom míň, vařit 7 minut.
+Kolem 20 malých švestek. Zabalit knedlíky, hodně vroucí voda, potom míň, vařit 7 minut.
 
 Na posypání:
 
