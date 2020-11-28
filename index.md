@@ -8,6 +8,7 @@
 ## Drinkbook
 
 * [Tea](drink/tea.md)
+* [Cocoa](drink/cocoa.md)
 
 ## Programming/computers
 
