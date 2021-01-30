@@ -31,3 +31,4 @@
 ## Relax
 
 * [Computer games](relax/computer-games.md)
+* [Go](go/go.md)
