@@ -26,6 +26,7 @@
 
 * [IntelliJ IDEA](keyboard-shortcuts/intellij.md)
 * [Darktable](keyboard-shortcuts/darktable.md)
+* [WeeChat](keyboard-shortcuts/weechat.md)
 
 ## Relax
 
