@@ -3,6 +3,7 @@
 ## Cook
 
 * [Lecso](cook/lecso.md)
+* [Špagáty s lososem a cuketou](cook/spagety-losos-cuketa.md)
 * [Štrůdl](cook/strudl.md)
 * [Švestkové knedlíky](cook/svestkove-knedliky.md)
 
