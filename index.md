@@ -1,24 +1,24 @@
 # Vit's attempt knowledge base
 
-## Cookbook
+## Cook
 
 * [Lecso](cook/lecso.md)
 * [Štrůdl](cook/strudl.md)
 * [Švestkové knedlíky](cook/svestkove-knedliky.md)
 
-## Drinkbook
+## Drink
 
 * [Tea](drink/tea.md)
 * [Cocoa](drink/cocoa.md)
 
-## Programming/computers
+## Computers
 
 * [Play to learn](prog/play.md)
 * [Online courses](prog/courses.md)
 * [Learning to play games](prog/games.md)
 * [My computers](prog/computers.md)
 
-## Learning
+## Learn
 
 * [Colourful Youtube channels](learn/youtube.md)
 * [Favourite podcasts](learn/podcasts.md)
