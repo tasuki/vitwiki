@@ -2,6 +2,7 @@
 
 ## Cookbook
 
+* [Lecso](cook/lecso.md)
 * [Štrůdl](cook/strudl.md)
 * [Švestkové knedlíky](cook/svestkove-knedliky.md)
 
