@@ -1,6 +1,4 @@
-# Špagáty s lososem a cuketou
-
-2 osoby:
+# Špagáty s lososem a cuketou (2 porce)
 
 * 150g špaget al dente, zcedit
 * 150g uzeného lososa

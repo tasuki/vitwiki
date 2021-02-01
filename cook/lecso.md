@@ -1,4 +1,4 @@
-# Lečo
+# Lečo (4 porce)
 
 * 2 cibule
 * 4 papriky
