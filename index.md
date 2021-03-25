@@ -1,7 +1,11 @@
 # Vit's attempt knowledge base
 
-## Cook
+If you don't speak all of English, Czech, or Polish, you're screwed. Píšu v jazyku, na který mám zrovna chuť. Piszę dla siebie!
 
+## Cook/bake
+
+* [Chleb dla początkujących](cook/easy-bread.md)
+* [Sourdough bread](cook/bread.md)
 * [Lecso](cook/lecso.md)
 * [Špagáty s lososem a cuketou](cook/spagety-losos-cuketa.md)
 * [Štrůdl](cook/strudl.md)
