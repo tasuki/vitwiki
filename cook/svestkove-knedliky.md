@@ -2,14 +2,14 @@
 
 Zamíchat:
 
-* 250g měkký tvaroh (ne mokrý)
+* 250g měkký tvaroh (ne mokrý, v Polsku umlít!)
 * 1 lžíce másla
-* 2 vejce
-* 1 špetka soli
+* 1 vejce
+* špetka soli
 
 Přidat:
 
-* 250g hrubá mouka
+* 75g hrubá mouka
 
 Uhníst těsto, nechat přes noc v ledničce.
 
