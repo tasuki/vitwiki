@@ -3,7 +3,7 @@
 * 2 cibule
 * 4 papriky
 * 1-2 lžíce rajčatového protlaku
-* 4 rajčata
+* 4 rajčata (v Polsku jedna puszka krojonych)
 * 4 vejce
 * sůl
 

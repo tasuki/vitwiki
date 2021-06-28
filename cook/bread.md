@@ -23,7 +23,7 @@ Spread thin and let dry, store in a cool dry place indefinitely. Wake up with on
 ### Ingredientes
 
 * Flour (any type really)
-* 2 tea spoons salt (per loaf)
+* 1 tea spoon salt (per loaf)
 * 1 table spoon vinegar (for conservation)
 * caraway, sunflower, pumpkin, poppy seeds, nuts, etc. to taste
 * water (just so, best leave to breathe before use)
