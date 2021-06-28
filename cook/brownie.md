@@ -10,8 +10,8 @@
 
 * trouba 180°C
 * máslo a čolokádu ohřát v mikrovlnce, zamíchat na krém
-* vajíčka s cukrem ušlehat, přidat čokomáslo
+* vajíčka s cukrem ušlehat, přidat čokomáslo a mouku
 * malý pekáč 30cm
-* péct 20 minut (a možná méně?)
+* péct kolem 15 minut
 
 Z [kuchařky pro dceru](https://www.kucharkaprodceru.cz/brownies-recept/).
