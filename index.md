@@ -9,6 +9,7 @@ If you don't speak all of English, Czech, or Polish, you're screwed. Píšu v ja
 * [Brownie](cook/brownie.md)
 * [Lecso](cook/lecso.md)
 * [Placuszki bananowe](cook/placuszki-bananowe.md)
+* [Pizza](cook/pizza.md)
 * [Špagáty s lososem a cuketou](cook/spagety-losos-cuketa.md)
 * [Štrůdl](cook/strudl.md)
 * [Švestkové knedlíky](cook/svestkove-knedliky.md)
