@@ -6,6 +6,7 @@ If you don't speak all of English, Czech, or Polish, you're screwed. Píšu v ja
 
 * [Chleb dla początkujących](cook/easy-bread.md)
 * [Sourdough bread](cook/bread.md)
+* [Béchamel](cook/bechamel.md)
 * [Brownie](cook/brownie.md)
 * [Lecso](cook/lecso.md)
 * [Placuszki bananowe](cook/placuszki-bananowe.md)
@@ -13,6 +14,7 @@ If you don't speak all of English, Czech, or Polish, you're screwed. Píšu v ja
 * [Špagáty s lososem a cuketou](cook/spagety-losos-cuketa.md)
 * [Štrůdl](cook/strudl.md)
 * [Švestkové knedlíky](cook/svestkove-knedliky.md)
+* [Zupa rosół](cook/zupa.md)
 
 ## Drink
 
