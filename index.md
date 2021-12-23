@@ -2,19 +2,23 @@
 
 If you don't speak all of English, Czech, or Polish, you're screwed. Píšu v jazyku, na který mám zrovna chuť. Piszę dla siebie!
 
-## Cook/bake
+## Cook
+
+* [Béchamel](cook/bechamel.md)
+* [Lecso](cook/lecso.md)
+* [Placuszki bananowe](cook/placuszki-bananowe.md)
+* [Racuchy](cook/racuchy.md)
+* [Špagáty s lososem a cuketou](cook/spagety-losos-cuketa.md)
+* [Švestkové knedlíky](cook/svestkove-knedliky.md)
+* [Zupa rosół](cook/zupa.md)
+
+## Bake
 
 * [Chleb dla początkujących](cook/easy-bread.md)
 * [Sourdough bread](cook/bread.md)
-* [Béchamel](cook/bechamel.md)
-* [Brownie](cook/brownie.md)
-* [Lecso](cook/lecso.md)
-* [Placuszki bananowe](cook/placuszki-bananowe.md)
 * [Pizza](cook/pizza.md)
-* [Špagáty s lososem a cuketou](cook/spagety-losos-cuketa.md)
 * [Štrůdl](cook/strudl.md)
-* [Švestkové knedlíky](cook/svestkove-knedliky.md)
-* [Zupa rosół](cook/zupa.md)
+* [Brownie](cook/brownie.md)
 
 ## Drink
 
