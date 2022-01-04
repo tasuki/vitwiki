@@ -1,6 +1,6 @@
 # Vit's attempt knowledge base
 
-If you don't speak all of English, Czech, or Polish, you're screwed. Píšu v jazyku, na který mám zrovna chuť. Piszę dla siebie!
+If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v jazyku, na který mám zrovna chuť. Piszę dla siebie!
 
 ## Cook
 
