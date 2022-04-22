@@ -6,6 +6,7 @@ If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v j
 
 * [Béchamel](cook/bechamel.md)
 * [Lecso](cook/lecso.md)
+* [Palačinky](cook/palacinky.md)
 * [Placuszki bananowe](cook/placuszki-bananowe.md)
 * [Racuchy](cook/racuchy.md)
 * [Špagáty s lososem a cuketou](cook/spagety-losos-cuketa.md)
