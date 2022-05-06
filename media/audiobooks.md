@@ -12,3 +12,9 @@ Ruth Golding maintans a [list of British readers](https://golding.wordpress.com/
 - Jerome K Jerome: [Idle Thoughts Of An Idle Fellow](https://librivox.org/idle_thoughts_of_an_idle_fellow_by_jerome_k_jerome/) (5:00), read by Czechchris
 - Charles Dickens: [Great Expectations](https://librivox.org/great-expectations-version-3-by-charles-dickens/) (20:15), read by Mil Nicholson
 - Emily Brontë: [Wuthering Heights](https://librivox.org/wuthering-heights-by-emily-bronte-2/) (14:45), read by Ruth Golding
+
+Yet to listen to:
+- Charles Dickens: [David Copperfield](https://librivox.org/david-copperfield-by-charles-dickens-version-2/) (32:30), read by Tadhg
+- Charles Dickens: [Oliver Twist](https://librivox.org/oliver-twist-version-4-by-charles-dickens/) (15:00), read by Tadhg, *or* [Oliver Twist](https://librivox.org/oliver-twist-version-6-by-charles-dickens/) (17:30), read by Mil Nicholson
+- Lew Nikolaevich Tolstoy: [Anna Karenina](https://librivox.org/anna-karenina-by-leo-tolstoy-2/) (36:50), read by MaryAnn
+- Fyodor Dostoevsky: [The Brothers Karamazov](https://librivox.org/brothers-karamazov-v3-by-fyodor-dostoyevsky/) (39:30), read by Bruce Pirie
