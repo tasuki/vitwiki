@@ -30,22 +30,22 @@ If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v j
 
 ## Computers
 
-* [Play to learn](prog/play.md)
-* [Online courses](prog/courses.md)
-* [Learning to play games](prog/games.md)
-* [My computers](prog/computers.md)
+* [Play to learn](comp/play.md)
+* [Online courses](comp/courses.md)
+* [Learning to play games](comp/games.md)
+* [My computers](comp/computers.md)
+
+### Keyboard Shortcuts
+
+* [IntelliJ IDEA](comp/shortcuts/intellij.md)
+* [Darktable](comp/shortcuts/darktable.md)
+* [WeeChat](comp/shortcuts/weechat.md)
 
 ## Media
 
 * [Colourful Youtube channels](media/youtube.md)
 * [Favourite podcasts](media/podcasts.md)
 * [Audio books](media/audiobooks.md)
-
-## Keyboard Shortcuts
-
-* [IntelliJ IDEA](keyboard-shortcuts/intellij.md)
-* [Darktable](keyboard-shortcuts/darktable.md)
-* [WeeChat](keyboard-shortcuts/weechat.md)
 
 ## Relax
 
