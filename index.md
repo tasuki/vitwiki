@@ -41,14 +41,15 @@ If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v j
 * [Darktable](comp/shortcuts/darktable.md)
 * [WeeChat](comp/shortcuts/weechat.md)
 
-## Media
-
-* [Colourful Youtube channels](media/youtube.md)
-* [Favourite podcasts](media/podcasts.md)
-* [Audio books](media/audiobooks.md)
 
 ## Relax
 
 * [Computer games](relax/computer-games.md)
 * [Go](go/go.md), just a list of my games
 * [Slávy dcera](relax/slavy-dcera.md), protože bych chtěl zjistit, jak se má číst
+
+### Media
+
+* [Colourful Youtube channels](media/youtube.md)
+* [Favourite podcasts](media/podcasts.md)
+* [Audio books](media/audiobooks.md)
