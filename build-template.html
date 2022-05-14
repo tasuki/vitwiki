@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>${TITLE}VitWiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Alegreya:400,400italic,700|JetBrains+Mono:400,400italic&amp;subset=latin-ext&amp;display=swap" type="text/css" />
+
+<style type="text/css">
+html { background-color: #fdf6e3; color: #586e75; font-family: Alegreya, serif; font-variant-numeric: tabular-nums; font-size: 18px; padding: 0px 10px; }
+#content { max-width: 650px; margin: auto; }
+#footer { font-size: 15px; margin-top: 2em; }
+
+code { color: #859900; font-family: "JetBrains Mono"; font-size: 16px; }
+
+a:link { color: #268bd2; }
+a:visited { color: #6c71c4; }
+a:hover { text-decoration: none; }
+
+h1 { font-size: 30px; margin-top: 1em; }
+@media screen and (max-width: 650px) { h1 { margin-top: 0em; } }
+h2 { font-size: 24px; margin-top: 1.3em; }
+h3, h4 { color: #839496; font-size: 18px; }
+h1 { color: #cb4b16; }
+h2 { color: #b58900; }
+
+ul { list-style: none; padding-left: 0px; }
+ul ul { padding-left: 20px; }
+ul > li::before { color: #d33682; content: "* "; position: relative; top: 6px; }
+</style>
+</head>
+<body>
+
+<div id="content">
+${CONTENT}
+
+<div id="footer">
+Go <a href="/">home</a> or view <a href="https://github.com/tasuki/vitwiki/blob/master/${FILE}">source</a>. Available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">cc by-sa</a>.
+</div>
+</div>
+
+</body>
+</html>
