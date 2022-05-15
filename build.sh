@@ -2,13 +2,16 @@
 
 SUFFIX=${SUFFIX:-''}
 
-DIRS=$(fd --type d --exclude "/build*")
+FD="fdfind"
+PANDOC="pandoc"
+
+DIRS=$("$FD" --type d --exclude "/build*")
 for D in $DIRS; do
 	mkdir -p "build/$D"
 done
 
 FILES="index.md drink/tea.md"
-FILES=$(fd --type f --exclude Makefile --exclude "/build*")
+FILES=$("$FD" --type f --exclude Makefile --exclude "/build*")
 for FILE in $FILES; do
 	if [[ "$FILE" == *.md ]]; then
 		OUTFILE="build/"$(echo "$FILE" | sed -E "s/\.md/.html/g")
@@ -16,7 +19,7 @@ for FILE in $FILES; do
 			continue
 		fi
 
-		CONTENT=$(pandoc "$FILE" | sed -E "s/\.md\"/$SUFFIX\"/g")
+		CONTENT=$("$PANDOC" "$FILE" | sed -E "s/\.md\"/$SUFFIX\"/g")
 		TITLE=""
 		for PART in $(echo "$FILE" | tr "/" "\n"); do
 			# get rid of .md, replace - with space, uppercase first letter of each word
