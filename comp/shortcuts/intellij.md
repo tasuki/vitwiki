@@ -50,5 +50,5 @@
 
 ### Action List
 
-https://github.com/JetBrains/intellij-community/blob/master/platform/platform-resources/src/idea/LangActions.xml
-https://centic9.github.io/IntelliJ-Action-IDs/
+- https://github.com/JetBrains/intellij-community/blob/master/platform/platform-resources/src/idea/LangActions.xml
+- https://centic9.github.io/IntelliJ-Action-IDs/
