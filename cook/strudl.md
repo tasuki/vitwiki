@@ -17,7 +17,8 @@ Wrap things up, bake in preheated oven on 200°C for ~20 minutes.
 ---
 
 Alternately half portion, second roll with spinach and cheese:
-* 3 cloves of ground garlic in a bit of oil
+
+* 7 cloves ground garlic fry in a bit of oil (+ onion perhaps)
 * 900g frozen spinach works about right for one roll
-* unfreeze, salt to pepper to taste, leave to cool before wrapping
-* when wrapping: bread crumbs underneath, sprinkle with cheese
+* unfreeze, lots of salt and pepper, leave to cool & dry before wrapping
+* when wrapping: bread crumbs underneath, sprinkle with grated cheese
