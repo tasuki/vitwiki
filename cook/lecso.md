@@ -9,11 +9,11 @@
 
 ---
 
-* Olej na středně silném plamenu
-* Cibule až zprůsvitní, osolit
-* Paprika - zvýšit žár
-* Protlak, až zhnědne
-* Rajčata, osolit, zamíchat, 10 minut dusit
-* Vejce důkladně rozkvedlat, osolit, snížit žár, vlévat za stálého míchání asi minutu
+1. Olej na středně silném plamenu
+2. Cibule až zprůsvitní, osolit
+3. Paprika - zvýšit žár
+4. Protlak, až zhnědne
+5. Rajčata, osolit, zamíchat, 10 minut dusit
+6. Vejce důkladně rozkvedlat, osolit, snížit žár, vlévat za stálého míchání asi minutu
 
 Z [kuchařky pro dceru](https://www.kucharkaprodceru.cz/leco-recept/).
