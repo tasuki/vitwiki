@@ -1,6 +1,7 @@
-# Vit's attempt knowledge base
+# Víťa's knowledge base
 
 If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v jazyku, na který mám zrovna chuť. Piszę dla siebie!
+
 
 ## Food
 
@@ -13,6 +14,7 @@ If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v j
 * [Racuchy](cook/racuchy.md)
 * [Špagáty s lososem a cuketou](cook/spagety-losos-cuketa.md)
 * [Švestkové knedlíky](cook/svestkove-knedliky.md)
+* [Šťouchané brambory](cook/stouchane.md)
 * [Zupa rosół](cook/zupa.md)
 
 ### Bake
@@ -27,6 +29,7 @@ If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v j
 
 * [Tea](drink/tea.md)
 * [Cocoa](drink/cocoa.md)
+
 
 ## Computers
 
