@@ -19,6 +19,7 @@ for FILE in $FILES; do
 			continue
 		fi
 
+		DATE=$(git log -1 --pretty="format:%cs" "$FILE")
 		CONTENT=$("$PANDOC" "$FILE" | sed -E "s/\.md\"/$SUFFIX\"/g")
 		TITLE=""
 		for PART in $(echo "$FILE" | tr "/" "\n"); do
@@ -28,7 +29,7 @@ for FILE in $FILES; do
 		done
 
 		echo "mark: $FILE to $OUTFILE"
-		export FILE TITLE CONTENT
+		export FILE TITLE CONTENT DATE
 		envsubst < build-template.html > "$OUTFILE"
 	else
 		OUTFILE="build/$FILE"

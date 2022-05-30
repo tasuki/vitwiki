@@ -9,6 +9,7 @@
 html { background-color: #fdf6e3; color: #586e75; font-family: Alegreya, serif; font-variant-numeric: tabular-nums; font-size: 18px; padding: 0px 10px; }
 #content { max-width: 650px; margin: auto; }
 #footer { font-size: 15px; margin-top: 2em; }
+#footer .item { white-space: nowrap; }
 
 code { color: #859900; font-family: "JetBrains Mono"; font-size: 16px; }
 
@@ -40,7 +41,9 @@ table { border: 0.1px solid #eee8d5; border-collapse: collapse; }
 ${CONTENT}
 
 <div id="footer">
-Go <a href="/">home</a> or view <a href="https://github.com/tasuki/vitwiki/blob/master/${FILE}">source</a>. Available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">cc by-sa</a>.
+<span class="item">Go <a href="/">home</a> or view <a href="https://github.com/tasuki/vitwiki/blob/master/${FILE}">source</a>.</span>
+<span class="item">Last modified ${DATE}.</span>
+<span class="item">Available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">cc by-sa</a>.</span>
 </div>
 </div>
 
