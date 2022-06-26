@@ -4,9 +4,7 @@
 * 400g jogurtu (1 jogurt)
 * 130g mouky (1 sklenice)
 * 30g vanilkového cukru
-* prdopeč (kolik?)
-* 4 jablka
+* 7g prdopeč (TODO: zkusit jedlou sodu? jogurt je kyselý...)
+* 4 větší jablka
 
-Smíchat vejce jogurt, přidat 
-
-Smažit nejlépe na kokosovém oleji.
+Smíchat vejce, jogurt, jabka nastrouhat, přidat zbytek. Smažit nejlépe na kokosovém oleji.
