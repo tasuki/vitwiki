@@ -1,4 +1,4 @@
-# Placuszki bananowe
+# Placuszki Bananowe (3 porce)
 
 * 4 jajka
 * 2 banany

@@ -1,4 +1,4 @@
-# Mój pierwszy chleb
+# Mój Pierwszy Chleb
 
 Zwykle robię dwa chlebki w foremkach.
 

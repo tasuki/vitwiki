@@ -1,4 +1,4 @@
-# Šťouchané brambory
+# Šťouchané Brambory
 
 * brambory
 * cibule

@@ -1,4 +1,4 @@
-# Colourful Youtube channels
+# Colourful YouTube Channels
 
 * [Kurzgesagt](https://www.youtube.com/c/inanutshell/videos?view=0&sort=p&flow=grid)
 * [CGP Grey](https://www.youtube.com/greymatter/videos?view=0&sort=p&flow=grid)

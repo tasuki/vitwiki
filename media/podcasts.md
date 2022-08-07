@@ -1,4 +1,4 @@
-# Favourite podcasts
+# Favourite Podcasts
 
 * [Lex Fridman](https://lexfridman.com/podcast/) - (artificial) intelligence, consciousness, meaning of life. Some of my favourite guests:
 	* Manolis Kellis, a true rennaisance man

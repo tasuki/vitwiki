@@ -1,4 +1,4 @@
-# Racuchy
+# Racuchy (6 porcí)
 
 * 2 vejce
 * 400g jogurtu (1 jogurt)

@@ -1,4 +1,4 @@
-# Kakao aka hot chocolate
+# Kakao AKA Hot Chocolate
 
 2 portions:
 

@@ -1,4 +1,4 @@
-# Computer games
+# Computer Games
 
 ## 0 A.D.
 

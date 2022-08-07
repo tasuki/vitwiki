@@ -1,4 +1,4 @@
-# My games
+# My Games
 
 Generate listing: cd to sgf dir and run
 

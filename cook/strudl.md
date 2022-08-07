@@ -1,4 +1,4 @@
-# Štrůdl, aka jablečný závin
+# Štrůdl, AKA Jablečný Závin
 
 Prepare:
 

@@ -1,4 +1,4 @@
-# Švestkové knedlíky (2 porce)
+# Švestkové Knedlíky (2 porce)
 
 Zamíchat:
 
