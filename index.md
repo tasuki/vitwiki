@@ -11,6 +11,7 @@ If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v j
 * [Lecso](cook/lecso.md)
 * [Palačinky](cook/palacinky.md)
 * [Placuszki bananowe](cook/placuszki-bananowe.md)
+* [Placky cuketové](cook/placky-cuketove.md)
 * [Racuchy](cook/racuchy.md)
 * [Špagáty s lososem a cuketou](cook/spagety-losos-cuketa.md)
 * [Švestkové knedlíky](cook/svestkove-knedliky.md)
