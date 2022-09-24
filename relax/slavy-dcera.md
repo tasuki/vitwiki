@@ -8,7 +8,7 @@ Takhle vypadá [Elegické distichon](https://cs.wikipedia.org/wiki/Elegick%C3%A9
 -.. -.. -   -.. -.. -
 ```
 
-První třetina (čím víc otazníků tím míň jsem si jistý):
+První třetina:
 
 ```
 Aj zde leží zem ta před okem mým slzy ronícím,
@@ -32,7 +32,7 @@ v těchto krajích na tvou, Slávie, šíji chopil.
 -     .  .  -    -  -     -  . .  - .  .  -
 
 Horši nežli divé války, hromu, ohně divější,
--  -  -  .  . -  -  -   .  .   - .  . -  -   ?????
+-  .  .  -  . .  -  -   -  -   - .  . -  -
 zaslepenec na své když zlobu plémě kydá.
 -  . . -   -  -   -    .  .  -  .  . -
 
@@ -62,7 +62,7 @@ tvé vin těchto počet zpáchaly někdy ruce,
 -   -   -   .  . -   -  .  .  -  .  . -
 
 neb krve nikde tolik nevylil černidla že žádný
--   . .  -  .  . -   . . -   -  - .   .  -  -    ???
+-   . .  -  .  . -   . . -   -  - .   .  -  -
 nepřítel, co vylil k záhubě Slávy Němec.
 -  - -    .  . -   -   . .  -  .  . -
 ```
