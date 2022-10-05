@@ -45,3 +45,7 @@ Looking for my favourite...
 ### [Long Mei Yunnan](https://yunnansourcing.com/products/long-mei-yunnan-green-tea-of-zhenyuan)
 
 Super easy brew green tea. Best to start from 80°C, but anything goes. Makes an insane amount of brewings for a green tea.
+
+### 2016 Yunnan Sourcing "Red Monkey" Raw Pu-erh Tea Mini Cake
+
+A good young cheap sheng puerh, no longer available.
