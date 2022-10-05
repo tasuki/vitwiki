@@ -1,12 +1,12 @@
 # Slávy Dcera, jak asi číst předzpěv...
 
-[Předzpěv na Wikisource](https://cs.wikisource.org/wiki/Sl%C3%A1vy_dcera/P%C5%99edzp%C4%9Bv)
-
-Takhle vypadá [Elegické distichon](https://cs.wikipedia.org/wiki/Elegick%C3%A9_distichon):
+[Předzpěv je na Wikisource](https://cs.wikisource.org/wiki/Sl%C3%A1vy_dcera/P%C5%99edzp%C4%9Bv). Takhle vypadá [elegické dvouverší](https://cs.wikipedia.org/wiki/Elegick%C3%A9_distichon):
 ```
 -.. -.. -.. -.. -.. --
 -.. -.. -   -.. -.. -
 ```
+
+Sanity check: [slavicheck.sc](slavicheck.sc)
 
 První třetina:
 
@@ -65,4 +65,76 @@ neb krve nikde tolik nevylil černidla že žádný
 -   . .  -  .  . -   . . -   -  - .   .  -  -
 nepřítel, co vylil k záhubě Slávy Němec.
 -  - -    .  . -   -   . .  -  .  . -
+```
+
+Druhá třetina:
+
+```
+Sám svobody kdo hoden, svobodu zná vážiti každou,
+-   .  . -  .   . -    .  . -  -   - . .  -  -
+ten kdo do pout jímá otroky, sám je otrok.
+-   .   .  -    - -  - . .   -   .  . -
+
+Nechť ruce, nechťby jazyk v okovy své vázal otrocké,
+-     . .   -    .  . -   . .  -  -   - .   . -  -
+jedno to, neb nezná šetřiti práva jiných.
+-  .  .   -   -  -  -  . .  -  .  . -
+
+Ten kdo trůny bořil, lidskou krev darmo vyléval,
+-   -   -  .  . -    -  -    -    -  .  . - -
+po světě nešťastnou války pochodni nosil:
+-  .  .  -  -  -    -  .  . -   .  . -
+
+ten porobu slušnou, buď Goth, buď Skýtá, zasloužil,
+-   . . -  -   -    -   -     -   -  .   . -   -
+ne kdo divé chválil příkladem ordě pokoj
+-  .   . -  -   -   -  .  .   - .  . -
+
+Kde jste se octly milé zde bydlivších národy Slávů,
+-   .    .  -  .  . -  .   .  -  -    - . .  -  -
+národy, jenž Pomoří tam, tuto Sálu pily?
+- . .   -    . . -  -    . .  - .  . -
+
+Srbů větve tiché, Obodritské říše potomci,
+- -  -  .  .  -   ..  -  -   - .  . -  -
+kde kmenové Vilců, kde vnukové jste Ukrů?
+-   .  . -  -  -   -   .  . -  .    . -
+
+Na pravo šíře hledím, na levo zrak bystře otáčím,
+-  .  .  - .  .  -    .  . -  -    -  .   .- -
+než mé darmo oko v Slávii Slávu hledá.
+-   -  -  .  .-  -    . . -  .  .  -
+
+Rci strome, chráme jejich rostlý, pode nímž se obětné
+-   .   .   -   .  . -    -   -   . .  -    .  .-  -
+dávnověkým tehdáž pálily žertvy bohům:
+-  . . -   -  -   - . .  -  .   . -
+
+kde jsou národové ti, jejich kde knížata, města,
+-   -    - . . -  .   . -    -   -  . .   -  -
+již prvý v severu zkřísili tomto život?
+-   - -  .   . -  -   . .  -  .  . -
+
+Jedni učíce chudou Europu plachty i vesla
+-  .  .- .  .  -   - - .  .    -  - -  -
+chystati a k bohatým přes moře vésti břehům,
+-   . .  - .   . -   -    . .  -  .  .  -
+
+kov tu jiní ze hlubin stkvoucí vykopávali rudných,
+více ku poctě bohům nežli ku zisku lidem.
+
+Tam ti neourodné rolníku ukázali rádlem,
+by klas neslo zlatý, brázditi luno země.
+
+Lípy tito, svěcený Slávě strom, vedlé pokojných
+cest sadili, chládek by stlaly vůkol i čich.
+
+Muž syny města učil stavěti, v nich vésti kupectví,
+a mláď svou učily tkávati plátno ženy.
+
+Národe mistrovský, jakové pak máš za to díky?
+Rozškubaný hnusné zpotvořenosti věnec.
+
+Jak včely, med poznavše, ihned se do oulu cizího
+hrnou stádně a pak matku i dítky bijí:
 ```
