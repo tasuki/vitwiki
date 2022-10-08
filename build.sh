@@ -10,7 +10,6 @@ for D in $DIRS; do
 	mkdir -p "build/$D"
 done
 
-FILES="index.md drink/tea.md"
 FILES=$("$FD" --type f --exclude Makefile --exclude "/build*")
 for FILE in $FILES; do
 	if [[ "$FILE" == *.md ]]; then
