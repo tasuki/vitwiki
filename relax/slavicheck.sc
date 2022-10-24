@@ -1,7 +1,7 @@
 // Slavíček, slávy check?
 //
-// Tested working with Ammonite Repl 2.3.8
-// From repo root, run: `amm slavicheck.sc`
+// Tested working with: Ammonite Repl 2.5.5, Scala 2.13
+// From repo root, run: `amm relax/slavicheck.sc`
 
 import scala.io.Source
 
