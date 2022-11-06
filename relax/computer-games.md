@@ -9,3 +9,8 @@ Favourite Random maps:
 * Hellas
 * Ngorongoro
 * Scythian Rivulet
+
+## Old games not to forget
+
+* Liero (`lierolibre` in Debian)
+* Jump n' bump (`jumpnbump` in Debian)
