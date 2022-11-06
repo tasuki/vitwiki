@@ -51,6 +51,7 @@ If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v j
 * [Computer games](relax/computer-games.md)
 * [Go](go/go.md), just a list of my games
 * [Slávy dcera](relax/slavy-dcera.md), protože bych chtěl zjistit, jak se má číst
+* [Anagrams](relax/anagram.md)
 
 ### Media
 
