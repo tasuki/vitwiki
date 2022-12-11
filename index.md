@@ -13,6 +13,7 @@ If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v j
 * [Placuszki bananowe](cook/placuszki-bananowe.md)
 * [Placky cuketové](cook/placky-cuketove.md)
 * [Racuchy](cook/racuchy.md)
+* [Jablečný dort](cook/jablecny-dort.md)
 * [Špagáty s lososem a cuketou](cook/spagety-losos-cuketa.md)
 * [Švestkové knedlíky](cook/svestkove-knedliky.md)
 * [Šťouchané brambory](cook/stouchane.md)
