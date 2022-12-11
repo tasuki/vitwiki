@@ -39,3 +39,48 @@
 - Thu 03: knee pushup 2×20, leg raise 2×10
 - Fri 04: pullups 3×3, squats 2×20
 - Sat 05: straight bridge 2×20, bent leg 1×60
+
+45. week, November
+
+- Mon 07: knee pushup 2×20, leg raise 2×10
+- Tue 08: pullups 2×3, squats 1×20
+- Wed 09: straight bridge 2×20, bent leg 1×60
+- Thu 10: knee pushup 2×20, leg raise 2×10
+- Fri 11: pullups 2×3, squats 2×20
+- Sat 12: ~
+
+46. week, November
+
+- Mon 14: knee pushup 2×20
+- Tue 15: pullups 2×5, squats 2×20
+- Wed 16: ~
+- Thu 17: knee pushup 2×20, leg raise 2×10
+- Fri 18: pullups 2×5, squats 2×20
+- Sat 19: straight bridge 1×20, bent leg 1×60
+
+47. week, November
+
+- Mon 21: knee pushup 2×20, leg raise 2×10
+- Tue 22: pullups 2×5, squats 2×20
+- Wed 23: ~
+- Thu 24: knee pushup 2×20, leg raise 2×10
+- Fri 25: pullups 2×5, squats 2×20
+- Sat 26: ~
+
+48. week, December
+
+- Mon 28: knee pushup 2×20, leg raise 2×10
+- Tue 29: pullups 2×5
+- Wed 30: straight bridge 2×10, bent leg 1×60
+- Thu 01: knee pushup 2×20, leg raise 2×10
+- Fri 02: pullups 2×5, squats 2×20
+- Sat 03: ~
+
+49. week, December
+
+- Mon 05: pushup 2×10, leg raise 2×10
+- Tue 06: pullups 2×5, squats 2×10
+- Wed 07: straight bridge 1×10, bent leg 1×60
+- Thu 08: pushup 2×20, leg raise 2×10
+- Fri 09: pullups 2×5
+- Sat 10: straight bridge 1×10, bent leg 1×60
