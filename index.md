@@ -53,6 +53,7 @@ If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v j
 * [Go](go/go.md), just a list of my games
 * [Slávy dcera](relax/slavy-dcera.md), protože bych chtěl zjistit, jak se má číst
 * [Anagrams](relax/anagram.md)
+* [Xylophone](relax/xylophone.md)
 
 ### Media
 
