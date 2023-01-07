@@ -84,3 +84,10 @@
 - Thu 08: pushup 2×20, leg raise 2×10
 - Fri 09: pullups 2×5
 - Sat 10: straight bridge 1×10, bent leg 1×60
+
+50. week, December
+
+- Mon 12: pushup 2×10, leg raise 2×10
+- Tue 13: pullups 2×5, squats 2×10
+
+???
