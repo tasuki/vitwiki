@@ -1,8 +1,7 @@
 <style>
-.abctext { display: none; }
+.abctext { color: #586e75; font-size: 14px; }
 .abcrendered { color: #586e75; width: 770px; transform: translate(-88px) scale(0.8); }
 .abcrendered text { font-family: Alegreya; font-weight: normal; }
-pre { margin: 0; }
 </style>
 <script src="https://www.abcjs.net/abcjs-plugin-min.js" type="text/javascript"></script>
 
@@ -11,6 +10,7 @@ pre { margin: 0; }
 
 - Read Eevee's [Music theory for nerds](https://eev.ee/blog/2016/09/15/music-theory-for-nerds/)
 - Use [ABC notation editor](https://editor.drawthedots.com/) to edit/test these and play them.
+- ABC notation [transposer](http://www.franziskaludwig.de/abctransposer/)
 
 Find tunes at:
 
@@ -25,9 +25,7 @@ Find tunes at:
 ```
 X: 1
 CECE | G2 GG | CECE | D2 DD |
-w: Když jsem hu-sy pá-sa-la, zi-mou jsem se třá-sa-la
 CEGE | DD E2 | CEGE | DD C2 |
-w: teď už hu-sy ne-pa-su, zi-mou se už ne-třa-su.
 ```
 
 ### Ach synku synku
@@ -35,16 +33,18 @@ w: teď už hu-sy ne-pa-su, zi-mou se už ne-třa-su.
 ```
 X: 1
 L: 1/4
-CCC | C/2D/2 E2 | F/2E/2 D2 | C2z | EEE | E/2F/2 G2 | A/2G/2 F2 | E2z |
-DDD | D/2E/2 F2 | G/2F/2 E2 | D2z | CCC | C/2D/2 E2 | F/2E/2 D2 | C2z |
+CCC | C/D/ E2 | F/E/ D2 | C2z |\
+EEE | E/F/ G2 | A/G/ F2 | E2z |
+DDD | D/E/ F2 | G/F/ E2 | D2z |\
+CCC | C/D/ E2 | F/E/ D2 | C2z |
 ```
 
 ### Štědrej večer nastal
 
 ```
 X: 1
-C2E2 | FED2 | C2z2 | E2G2 | AGF2 | E2z2 |
-E2G2 | GFFA | D2F2 | FEEG | C2E2 | FED2 | C2z2 |
+C2E2 | FED2 | C4   | E2G2 | AGF2 | E4   |
+E2G2 | GFFA | D2F2 | FEEG | C2E2 | FED2 | C4 |
 ```
 
 ### To ta Heľpa
@@ -52,11 +52,20 @@ E2G2 | GFFA | D2F2 | FEEG | C2E2 | FED2 | C2z2 |
 ```
 X: 1
 L: 1/4
-A,EED | GEED | C3/2 A,/2C/2 B,3/2 | A,2 A, z |
-w: To ta Heľ-pa to ta Heľ-pa to je pek-né mes-to
-w: A vtej Heľ-pe a vtej Heľ-pe švar-ných chlap-cov je sto
-A AAG | EEDC | D3/2  D/2G/2  F3/2 | E2  E  z |
-w: Čo-ho je sto to-ho je sto nie po mo-jej vô-li
+|: A,EED | GEED | C3/ A,/C/ B,3/ | A,2 A,2 :|
+|: A AAG | EEDC | D3/  D/G/  F3/ | E2  E2   |
+   A,EED | GEED | C3/ A,/C/ B,3/ | A,2 A,2 :|
+```
+
+### Batalion (Tourdion)
+
+```
+X:1
+M:3/4
+L:1/8
+K:Em
+|: EFGAGF | E3FGA | BAGGAF | G2FED2 | EFGAGF | E2G2F2 | E4D2 | E6 :|
+|: B3 ABc | B4 B2 | dcBAGF | G3 FE2 | B3 ABc | B2AGF2 | E4D2 | E6 :|
 ```
 
 
@@ -73,9 +82,9 @@ G2E2E2 | F2D2D2 | CEG4 | G2E2E2 | F2D2D2 | CEC4 |
 
 ```
 X: 1
-L: 1/8
-C2 D2 E2 C2 | C2 D2 E2 C2 | E2  F2 G4 | E2  F2 G4 |
-GA GF E2 C2 | GA GF E2 C2 | C2 G,2 C4 | C2 G,2 C4 |
+L: 1/4
+C    D    E C | C    D    E C | E F  G2 | E F  G2 |
+G/A/ G/F/ E C | G/A/ G/F/ E C | C G, C2 | C G, C2 |
 ```
 
 
@@ -84,14 +93,18 @@ GA GF E2 C2 | GA GF E2 C2 | C2 G,2 C4 | C2 G,2 C4 |
 ### Green sleeve
 
 ```
-X:1
-M:3/4
-L:1/8
-K:Em
-E2|"Em"G4A2|"G"B3cB2|"D"A4F2|"Bm"D3EF2|"Em"G4E2|E3^DE2|"B"F4^D2|B,4
-E2|"Em"G4A2|"G"B3cB2|"D"A4F2|"Bm"D3EF2|"Em"G3FE2|"B"^D3^C^D2|"Em"E6-|E4z2|
-"G"d6|d3^cB2|"D"A4F2|D3EF2|"Em"G4E2|E3^DE2|"B"F4^D2|B,6|
-"G"d6|d3^cB2|"D"A4F2|D3EF2|"Em"G4E2|"B"^D3^C^D2|"Em"E6-|E4|]
+X: 1
+M: 6/8
+K: Em
+Q: 1/4=120
+E | "Em" G2A "G" B3/c/B | "D" A2F "Bm" D3/E/F |\
+    "Em" G2E E3/^D/E | "B" F2^D B,2
+E | "Em" G2A "G" B3/c/B | "D" A2F "Bm" D3/E/F |\
+    "Em" G3/F/E "B" ^D3/^C/D | "Em" E3 E2 z |
+"G" d3 d3/^c/B | "D" A2F D3/E/F |\
+    "Em" G2E E3/^D/E | "B" F2^D B,3 |
+"G" d3 d3/^c/B | "D" A2F D3/E/F |\
+    "Em" G3/F/E "B" ^D3/^C/D | "Em" E3 E2 z |
 ```
 
 ### Cooley's Tune
@@ -100,21 +113,37 @@ E2|"Em"G4A2|"G"B3cB2|"D"A4F2|"Bm"D3EF2|"Em"G3FE2|"B"^D3^C^D2|"Em"E6-|E4z2|
 X: 1
 M: 4/4
 L: 1/8
-K: Emin
-|:D2|"Em"EBBA B2 EB|\
-    ~B2 AB dBAG|\
-    "D"FDAD BDAD|\
-    FDAD dAFD|
-"Em"EBBA B2 EB|\
-    B2 AB defg|\
-    "D"afe^c dBAF|\
-    "Em"DEFD E2:|
-|:gf|"Em"eB B2 efge|\
-    eB B2 gedB|\
-    "D"A2 FA DAFA|\
-    A2 FA defg|
-"Em"eB B2 eBgB|\
-    eB B2 defg|\
-    "D"afe^c dBAF|\
-    "Em"DEFD E2:|
+|: C2 | "Dm" DAAG A2DA | A2GA cAGF | "C" ECGC ACGC | ECGC cGEC |
+        "Dm" DAAG A2DA | A2GA cdef | "C" gedB cAGE | "Dm" CDEC D2 :|
+|: fe | "Dm" dAA2 defd | dAA2 fdcA | "C" G2EG CGEG | G2EG cdef |
+        "Dm" dAA2 dAfA | dAA2 cdef | "C" gedB cAGE | "Dm" CDEC D2 :|
+```
+
+## Other
+
+### Ievan Polkka
+
+```
+X: 1
+M: 2/4
+L: 1/8
+K: Amin
+E |: "Am" A>G AB | cA Ac | "G" BG GB | "Am" c/B/A/G/ AE |
+     "Am" A>G AB | cA Ac | "F" de/d/ "G" cB |1 "Am" cA A2 \
+	                                       :|2 "Am" cA Ac ||
+|: "C" ee/e/ dc | "G" BG GB | "Dm" de/d/ "G" cB | "Am" AB "G" cd |
+   "C" ee/e/ dc | "G" BG GB | "F"  de/d/ "G" cB |1 "Am" cA Ac \
+                                               :|2 "Am" cA A2 ||
+```
+
+### Katyusha
+
+```
+X: 1
+M: 2/4
+L: 1/8
+K: Em
+"Em" E3F | G3E | GG FE | "B7" F2B,2 | F3G | A3F | AA GF | "Em" E4 |
+|: "Em" B2 "C" e2 | "G" d2 "E7" ed | "Am" cc BA |\
+   "Em" B2 E2 | "Am" zc2A | "Em" B3G | "B7" AA GF | "Em" E4 :|
 ```
