@@ -100,11 +100,11 @@ Q: 1/4=120
 E | "Em" G2A "G" B3/c/B | "D" A2F "Bm" D3/E/F |\
     "Em" G2E E3/^D/E | "B" F2^D B,2
 E | "Em" G2A "G" B3/c/B | "D" A2F "Bm" D3/E/F |\
-    "Em" G3/F/E "B" ^D3/^C/D | "Em" E3 E2 z |
+    "Em" G3/F/E "B" ^D3/^C/^D | "Em" E3 E2 z |
 "G" d3 d3/^c/B | "D" A2F D3/E/F |\
     "Em" G2E E3/^D/E | "B" F2^D B,3 |
 "G" d3 d3/^c/B | "D" A2F D3/E/F |\
-    "Em" G3/F/E "B" ^D3/^C/D | "Em" E3 E2 z |
+    "Em" G3/F/E "B" ^D3/^C/^D | "Em" E3 E2 z |
 ```
 
 ### Cooley's Tune
