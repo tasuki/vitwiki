@@ -29,7 +29,7 @@ def appendWeek(year: Int, week: Int): String = {
   val monday = startOfFirstWeek(year).plusDays(7 * (week - 1))
   val month = monday.plusDays(3).getMonth.toString.toLowerCase.capitalize
 
-  val days: Array[String] = Range(0, 6).map { d =>
+  val days: Array[String] = Range(0, 7).map { d =>
     val day = monday.plusDays(d)
     val dowdom = dowdomText.format(day)
     s"- ${dowdom}:"
