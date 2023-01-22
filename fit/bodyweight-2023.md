@@ -23,3 +23,13 @@
 - Fri 13: 7 tibetans, pullup 2×5, squats 2×20
 - Sat 14: 7 tibetans, bridge 1×10, twist 1×60
 - Sun 15: 7 tibetans
+
+3. week, January
+
+- Mon 16: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 17: 7 tibetans, pullup 2×5, squats 2×20
+- Wed 18: 7 tibetans, bridge 1×10, twist 1×60
+- Thu 19: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 20: 7 tibetans, pullup 2×5, squats 2×20
+- Sat 21: 7 tibetans, bridge 1×10, twist 1×60
+- Sun 22: lurgy
