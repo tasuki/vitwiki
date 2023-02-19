@@ -43,3 +43,33 @@
 - Fri 27: 7 tibetans, pullup 2×5, squats 2×20
 - Sat 28: 7 tibetans, bridge 1×10, twist 1×60
 - Sun 29: 7 tibetans
+
+5. week, February
+
+- Mon 30: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 31: 7 tibetans, pullup 2×5, squats 2×20
+- Wed 01: 7 tibetans, bridge 1×10, twist 1×60
+- Thu 02: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 03: 7 tibetans, pullup 2×5, squats 2×20
+- Sat 04: 7 tibetans, bridge 1×10, twist 1×60
+- Sun 05: 7 tibetans
+
+6. week, February
+
+- Mon 06: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 07: 7 tibetans, pullup 2×5, squats 2×20
+- Wed 08: 7 tibetans, full bridge 1×5, twist 1×60
+- Thu 09: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 10: 7 tibetans, pullup 2×5, squats 2×20
+- Sat 11: 7 tibetans, full bridge 1×5, twist 1×60
+- Sun 12: 7 tibetans
+
+7. week, February
+
+- Mon 13: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 14: 7 tibetans, pullup 2×5, squats 2×20
+- Wed 15: 7 tibetans, full bridge 1×5, twist 1×60
+- Thu 16: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 17: 7 tibetans, pullup 2×5, squats 2×20
+- Sat 18: 7 tibetans, full bridge 1×5, twist 1×60
+- Sun 19: 7 tibetans
