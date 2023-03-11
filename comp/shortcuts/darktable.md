@@ -35,6 +35,15 @@ Darkroom is for photo editing.
 * color correction: make it orange, orange is cool
 
 
-## Files
+## Styles
 
-[style-basics.dtstyle](darktable/style-basics.dtstyle)
+- [basics.dtstyle](darktable/basics.dtstyle)
+- [humans.dtstyle](darktable/humans.dtstyle)
+- [decolour.dtstyle](darktable/decolour.dtstyle)
+
+## Presets
+
+- [modulegroups_favourite.dtstyle](darktable/presets/modulegroups_favourite.dtpreset)
+- [colorbalance_desaturate-80.dtstyle](darktable/presets/colorbalance_desaturate-80.dtpreset)
+- [shadhi_25.dtstyle](darktable/presets/shadhi_25.dtpreset)
+- [shadhi_35.dtstyle](darktable/presets/shadhi_35.dtpreset)
