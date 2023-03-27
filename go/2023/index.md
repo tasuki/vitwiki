@@ -3,3 +3,7 @@
 * [2023-02-08-kuba-mirka.sgf](2023-02-08-kuba-mirka.sgf)
 * [2023-02-12-fantleroy.sgf](2023-02-12-fantleroy.sgf)
 * [2023-02-19-lew.sgf](2023-02-19-lew.sgf)
+* [2023-03-14-bartosz.sgf](2023-03-14-bartosz.sgf)
+* [2023-03-18-olesia.sgf](2023-03-18-olesia.sgf)
+* [2023-03-24-cezary.sgf](2023-03-24-cezary.sgf)
+* [2023-03-26-fantleroy.sgf](2023-03-26-fantleroy.sgf)
