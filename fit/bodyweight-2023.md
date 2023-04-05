@@ -123,3 +123,13 @@
 - Fri 24: 7 tibetans, pullup 2×5, squats 2×20
 - Sat 25: 7 tibetans, full bridge 1×5
 - Sun 26: 7 tibetans
+
+13. week, March
+
+- Mon 27: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 28: 7 tibetans, pullup 2×5, squats 2×20
+- Wed 29: 7 tibetans, full bridge 1×5
+- Thu 30: break
+- Fri 31: break
+- Sat 01: break
+- Sun 02: break
