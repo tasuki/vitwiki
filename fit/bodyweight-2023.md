@@ -133,3 +133,43 @@
 - Fri 31: break
 - Sat 01: break
 - Sun 02: break
+
+14. week, April
+
+- Mon 03: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 04: 7 tibetans, pullup 2×5, squats 2×20
+- Wed 05: 7 tibetans, full bridge 1×5
+- Thu 06: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 07: 7 tibetans, pullup 2×5, squats 2×20
+- Sat 08: 7 tibetans, full bridge 1×5
+- Sun 09: 7 tibetans
+
+15. week, April
+
+- Mon 10: pushup 2×10, leg raise 2×10
+- Tue 11: 7 tibetans, pullup 2×5, squats 2×20
+- Wed 12: 7 tibetans, full bridge 1×5
+- Thu 13: break
+- Fri 14: break
+- Sat 15: 7 tibetans
+- Sun 16: break
+
+16. week, April
+
+- Mon 17: break
+- Tue 18: 7 tibetans, pushup 2×10, leg raise 2×10, pullup 2×5
+- Wed 19: break
+- Thu 20: break
+- Fri 21: 7 tibetans, pushup 2×10, leg raise 2×10, pullup 2×5 
+- Sat 22: break
+- Sun 23: break
+
+17. week, April
+
+- Mon 24: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 25: 7 tibetans, squats 2×20, pullup 2×5
+- Wed 26: unwell
+- Thu 27:
+- Fri 28:
+- Sat 29:
+- Sun 30:
