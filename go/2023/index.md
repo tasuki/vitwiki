@@ -10,3 +10,6 @@
 * [2023-03-26-fantleroy.sgf](2023-03-26-fantleroy.sgf)
 * [2023-04-03-yingzhi.sgf](2023-04-03-yingzhi.sgf)
 * [2023-04-26-shinoe.sgf](2023-04-26-shinoe.sgf)
+* [2023-05-07-lique.sgf](2023-05-07-lique.sgf)
+* [2023-05-07-milena.sgf](2023-05-07-milena.sgf)
+* [2023-05-08-ashitaka.sgf](2023-05-08-ashitaka.sgf)

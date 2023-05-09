@@ -169,7 +169,27 @@
 - Mon 24: 7 tibetans, pushup 2×10, leg raise 2×10
 - Tue 25: 7 tibetans, squats 2×20, pullup 2×5
 - Wed 26: unwell
-- Thu 27:
-- Fri 28:
-- Sat 29:
-- Sun 30:
+- Thu 27: ?
+- Fri 28: ?
+- Sat 29: ?
+- Sun 30: ?
+
+18. week, May
+
+- Mon 01: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 02: 7 tibetans, pullup 2×5, squats 2×20
+- Wed 03: 7 tibetans, full bridge 1×5
+- Thu 04: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 05: 7 tibetans, pullup 2×5, squats 2×20
+- Sat 06: 7 tibetans, full bridge 1×5
+- Sun 07: 7 tibetans
+
+19. week, May
+
+- Mon 08: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 09: 7 tibetans, pullup 2×5, squats 2×20
+- Wed 10:
+- Thu 11:
+- Fri 12:
+- Sat 13:
+- Sun 14:
