@@ -188,8 +188,18 @@
 
 - Mon 08: 7 tibetans, pushup 2×10, leg raise 2×10
 - Tue 09: 7 tibetans, pullup 2×5, squats 2×20
-- Wed 10:
-- Thu 11:
-- Fri 12:
-- Sat 13:
-- Sun 14:
+- Wed 10: 7 tibetans, full bridge 1×5
+- Thu 11: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 12: break
+- Sat 13: break
+- Sun 14: break
+
+20. week, May
+
+- Mon 15: break
+- Tue 16: 7 tibetans, pullup 2×5, squats 2×20
+- Wed 17: 7 tibetans, full bridge 1×5
+- Thu 18: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 19: 7 tibetans, pullup 2×5, squats 2×20
+- Sat 20: 7 tibetans, full bridge 1×5
+- Sun 21: lazy
