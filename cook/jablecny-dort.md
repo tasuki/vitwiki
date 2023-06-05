@@ -1,6 +1,6 @@
 # Jablečný dort
 
-* 75 dg jablek
+* 75 dg jablek (4 velká jablka, ale zvážit!)
 * 10 dg cukru
 * 10 dg vanilkového pudingu (3 sáčky)
 * 2 citrony
@@ -13,5 +13,5 @@
 2. Dortovou formu vyložit igelitem, vyskládat piškotama.
 3. Pudingy zamíchat s 3 dcl vody (nejdřív málo potom přidat), přidat k jablkám, vařit až zhoustne (~2 min), nechat trochu zchladnout.
 4. Vymačkat citrony, přisypat vanilkový cukr, přidat k jablkám.
-5. Vylít jablka do formy, 3 vrstvy piškotů na nich 3 vrstvy jablek.
+5. Až trochu vystydne, vylít jablka do formy, 3 vrstvy piškotů na nich 3 vrstvy jablek.
 6. Zatížit, nechat zchladnout, do ledničky na noc.
