@@ -223,3 +223,43 @@
 - Fri 02: 7 tibetans, squats (+12kg) 2×10, pullup 2×5
 - Sat 03: 7 tibetans, full bridge 1×5
 - Sun 04: lazy
+
+23. week, June
+
+- Mon 05: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 06: 7 tibetans, squats (+12kg) 2×10, pullup 2×5
+- Wed 07: 7 tibetans, full bridge 1×5
+- Thu 08: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 09: 7 tibetans, squats (+12kg) 2×10, pullup 2×5
+- Sat 10: 7 tibetans, full bridge 1×5
+- Sun 11: 7 tibetans
+
+24. week, June
+
+- Mon 12: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 13: 7 tibetans, squats (+12kg) 2×10, pullup 2×5
+- Wed 14: 7 tibetans, full bridge 1×5
+- Thu 15: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 16: 7 tibetans, squats (+12kg) 2×10, pullup 2×5
+- Sat 17: 7 tibetans, full bridge 1×5
+- Sun 18: 7 tibetans
+
+25. week, June
+
+- Mon 19: lazy
+- Tue 20: lazy
+- Wed 21: lazy
+- Thu 22: lazy
+- Fri 23: lazy
+- Sat 24: lazy
+- Sun 25: 7 tibetans
+
+26. week, June
+
+- Mon 26: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 27: 7 tibetans, squats 2×15, pullup 2×5
+- Wed 28: 7 tibetans, full bridge 2×5
+- Thu 29:
+- Fri 30:
+- Sat 01:
+- Sun 02:
