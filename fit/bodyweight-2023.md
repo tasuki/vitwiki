@@ -259,7 +259,107 @@
 - Mon 26: 7 tibetans, pushup 2×10, leg raise 2×10
 - Tue 27: 7 tibetans, squats 2×15, pullup 2×5
 - Wed 28: 7 tibetans, full bridge 2×5
-- Thu 29:
-- Fri 30:
-- Sat 01:
-- Sun 02:
+- Thu 29: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 30: 7 tibetans, squats 2×15, pullup 2×5
+- Sat 01: 7 tibetans, full bridge 2×5
+- Sun 02: 7 tibetans
+
+27. week, July
+
+- Mon 03: lazy
+- Tue 04: lazy
+- Wed 05: lazy
+- Thu 06: lazy
+- Fri 07: lazy
+- Sat 08: lazy
+- Sun 09: lazy
+
+28. week, July
+
+- Mon 10: lazy
+- Tue 11: lazy
+- Wed 12: lazy
+- Thu 13: lazy
+- Fri 14: lazy
+- Sat 15: lazy
+- Sun 16: lazy
+
+29. week, July
+
+- Mon 17: lazy
+- Tue 18: lazy
+- Wed 19: lazy
+- Thu 20: lazy
+- Fri 21: lazy
+- Sat 22: lazy
+- Sun 23: lazy
+
+30. week, July
+
+- Mon 24: lazy
+- Tue 25: lazy
+- Wed 26: lazy
+- Thu 27: lazy
+- Fri 28: lazy
+- Sat 29: lazy
+- Sun 30: lazy
+
+31. week, August
+
+- Mon 31: lazy
+- Tue 01: lazy
+- Wed 02: lazy
+- Thu 03: lazy
+- Fri 04: lazy
+- Sat 05: lazy
+- Sun 06: meditate 60
+
+32. week, August
+
+- Mon 07: meditate 60
+- Tue 08: meditate 60
+- Wed 09: meditate 60
+- Thu 10: meditate 60
+- Fri 11: meditate 60
+- Sat 12: lazy
+- Sun 13: lazy
+
+33. week, August
+
+- Mon 14: lazy
+- Tue 15: lazy
+- Wed 16: lazy
+- Thu 17: lazy
+- Fri 18: lazy
+- Sat 19: lazy
+- Sun 20: lazy
+
+34. week, August
+
+- Mon 21: 7 tibetans
+- Tue 22: 7 tibetans
+- Wed 23: 7 tibetans
+- Thu 24: 7 tibetans
+- Fri 25: 7 tibetans
+- Sat 26: 7 tibetans
+- Sun 27: 7 tibetans
+
+35. week, August
+
+- Mon 28: lazy
+- Tue 29: lazy
+- Wed 30: lazy
+- Thu 31: lazy
+- Fri 01: lazy
+- Sat 02: lazy
+- Sun 03: lazy
+
+36. week, September
+
+- Mon 04: 7 tibetans, meditate 15, pushup 2×10, leg raise 2×10
+- Tue 05:
+- Wed 06:
+- Thu 07:
+- Fri 08:
+- Sat 09:
+- Sun 10:
