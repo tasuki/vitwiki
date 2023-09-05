@@ -12,7 +12,7 @@ První třetina:
 
 ```
 Aj zde leží zem ta před okem mým slzy ronícím,
--  .   . -  -   -  .    . -  -   - .  . - -
+-  .   . -  -   -  -    - .  .   - .  . - -
 někdy kolébka, nyní národa mého rakev.
 -  .  . -  .   . -  - . .  - .  . -
 
@@ -27,12 +27,12 @@ jež vzdoruje zhoubným až dosaváde časům.
 -   .   .  - -    -   -  . . - .  . -
 
 Však času ten horší je člověk, jenž berlu železnou
--    . .  -   -  -  -  -  .    .    -  .  . -  -
+-    . .  -   -  -  .  .  -    -    -  .  . -  -
 v těchto krajích na tvou, Slávie, šíji chopil.
 -     .  .  -    -  -     -  . .  - .  .  -
 
-Horši nežli divé války, hromu, ohně divější,
--  .  .  -  . .  -  -   -  -   - .  . -  -
+Horší nežli divé války, hromu, ohně divější,
+-  -  -  .  . -  -  -   .  .   - .  . -  -
 zaslepenec na své když zlobu plémě kydá.
 -  . . -   -  -   -    .  .  -  .  . -
 
@@ -108,7 +108,7 @@ než mé darmo oko v Slávii Slávu hledá.
 Rci strome, chráme jejich rostlý, pode nímž se obětné
 -   .   .   -   .  . -    -   -   . .  -    .  .-  -
 dávnověkým tehdáž pálily žertvy bohům:
--  . . -   -  -   - . .  -  .   . -
+-  . . -   -  -   - . .  -   .  . -
 
 kde jsou národové ti, jejich kde knížata, města,
 -   -    - . . -  .   . -    -   -  . .   -  -
@@ -116,25 +116,37 @@ již prvý v severu zkřísili tomto život?
 -   - -  .   . -  -   . .  -  .  . -
 
 Jedni učíce chudou Europu plachty i vesla
--  .  .- .  .  -   - - .  .    -  - -  -
+-  .  .- .  .  -   - - -  -    .  . -  -
 chystati a k bohatým přes moře vésti břehům,
 -   . .  - .   . -   -    . .  -  .  .  -
 
 kov tu jiní ze hlubin stkvoucí vykopávali rudných,
+-   .  . -  .  .  -   -     -  . . - . .  -  -
 více ku poctě bohům nežli ku zisku lidem.
+- .  .  -  .  . -   -  .  .  -  .  . -
 
 Tam ti neourodné rolníku ukázali rádlem,
+-   .  . - -  -  -  - .  .- . .  -  -
 by klas neslo zlatý, brázditi luno země.
+-  -    -  .  .  -   -   . .  - .  . -
 
-Lípy tito, svěcený Slávě strom, vedlé pokojných
+Lípy tito, svěcený Slávě strom, vedle pokojných
+- .  . -   .  . -  -  -  -      -  .  . -  -
 cest sadili, chládek by stlaly vůkol i čich.
+-    . . -   -   -   -  .   .  - .   . -
 
 Muž syny města učil stavěti, v nich vésti kupectví,
+-   . .  -  .  .-   -  - .   .      -  .  . -  -
 a mláď svou učily tkávati plátno ženy.
+- -    -    .. -  -  . .  -   .  . -
 
 Národe mistrovský, jakové pak máš za to díky?
+- . .  -  -   -    . . -  -   -   .  .  - -
 Rozškubaný hnusné zpotvořenosti věnec.
+-  .  . -  -   -  -   . . -  .  . -
 
 Jak včely, med poznavše, ihned se do oulu cizího
+-   .  .   -   -  - .    .-    .  .  - .  . - -
 hrnou stádně a pak matku i dítky bijí:
+- -   -   .  . -   -  .  . -  .  . -
 ```
