@@ -357,9 +357,83 @@
 36. week, September
 
 - Mon 04: 7 tibetans, meditate 15, pushup 2×10, leg raise 2×10
-- Tue 05:
-- Wed 06:
-- Thu 07:
-- Fri 08:
-- Sat 09:
-- Sun 10:
+- Tue 05: 7 tibetans, meditate 15, squats 2×10, pullup 2×5
+- Wed 06: 7 tibetans, full bridge 2×5
+- Thu 07: 7 tibetans, meditate 15, pushup 2×10, leg raise 2×10
+- Fri 08: 7 tibetans, squats 2×10, pullup 2×5
+- Sat 09: 7 tibetans, full bridge 2×5
+- Sun 10: 7 tibetans
+
+37. week, September
+
+- Mon 11: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 12: 7 tibetans, squats 2×10, pullup 2×5
+- Wed 13: 7 tibetans, full bridge 2×5
+- Thu 14: 7 tibetans, meditate 15, pushup 2×10, leg raise 2×10
+- Fri 15: 7 tibetans, squats 2×10, pullup 2×5
+- Sat 16: 7 tibetans, full bridge 2×5
+- Sun 17: 7 tibetans
+
+38. week, September
+
+- Mon 18: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 19: 7 tibetans, squats 2×10, pullup 2×5
+- Wed 20: 7 tibetans, full bridge 2×5
+- Thu 21: ~
+- Fri 22: ~
+- Sat 23: ~
+- Sun 24: ~
+
+39. week, September
+
+- Mon 25: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 26: 7 tibetans, squats 2×10, pullup 2×5
+- Wed 27: 7 tibetans, full bridge 2×5
+- Thu 28: ~
+- Fri 29: ~
+- Sat 30: ~
+- Sun 01: ~
+
+40. week, October
+
+?
+
+41. week, October
+
+?
+
+42. week, October
+
+?
+
+43. week, October
+
+?
+
+44. week, November
+
+?
+
+45. week, November
+
+?
+
+46. week, November
+
+- Mon 13: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 14: 7 tibetans, squats 2×10, pullup 2×5
+- Wed 15: 7 tibetans, full bridge 1×5
+- Thu 16: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 17: 7 tibetans, squats 2×10, pullup 2×5
+- Sat 18: 7 tibetans, full bridge 1×5
+- Sun 19: ~
+
+47. week, November
+
+- Mon 20: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 21: 7 tibetans, squats 2×10, pullup 2×5
+- Wed 22: 7 tibetans, full bridge 1×5
+- Thu 23: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 24: 7 tibetans, squats 2×10, pullup 2×5
+- Sat 25: 7 tibetans, full bridge 1×5
+- Sun 26: ~
