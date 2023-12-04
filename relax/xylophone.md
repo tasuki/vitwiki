@@ -119,6 +119,15 @@ L: 1/8
         "Dm" dAA2 dAfA | dAA2 cdef | "C" gedB cAGE | "Dm" CDEC D2 :|
 ```
 
+### Walking in the Air (from The Snowman)
+
+```
+X: 1
+L: 1/4
+E/ A/A/G/G/ E3 z/ E/ A/A/G/G/E>-C D4
+z/ D/ F/F/E/E/ D3 A,/ C/C/B,/B,/A,3
+```
+
 ## Other
 
 ### Ievan Polkka
