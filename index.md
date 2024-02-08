@@ -1,6 +1,6 @@
 # Víťa's Knowledge Base
 
-If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v jazyku, na který mám zrovna chuť. Piszę dla siebie!
+Best if you understand English, Czech, and Polish. Píšu v jazyku, na který mám zrovna chuť. Piszę dla siebie!
 
 
 ## Food
@@ -33,7 +33,13 @@ If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v j
 * [Cocoa](drink/cocoa.md)
 
 
-## Computers
+## Play
+
+* [Go](games/go/go.md), a list of my game records
+* [Computer games](games/computer.md)
+
+
+## Compute
 
 * [Play to learn](comp/play.md)
 * [Online courses](comp/courses.md)
@@ -47,17 +53,25 @@ If you don't speak all of English, Czech, and Polish, you're screwed. Píšu v j
 * [WeeChat](comp/shortcuts/weechat.md)
 
 
-## Relax
+## Words
 
-* [Computer games](relax/computer-games.md)
-* [Go](go/go.md), just a list of my games
-* [Slávy dcera](relax/slavy-dcera.md), protože bych chtěl zjistit, jak se má číst
-* [Desiderata](relax/desiderata.md)
-* [Anagrams](relax/anagram.md)
-* [Xylophone](relax/xylophone.md)
+* [Slávy dcera](words/slavy-dcera.md), protože bych chtěl zjistit, jak se má číst
+* [Desiderata](words/desiderata.md)
+* [Anagrams](words/anagram.md)
 
-### Media
+
+## Sounds & moving pictures
+
+### Produce
+
+* [Xylophone](media/xylophone.md)
+
+### Consume
 
 * [Colourful Youtube channels](media/youtube.md)
 * [Favourite podcasts](media/podcasts.md)
 * [Audio books](media/audiobooks.md)
+
+## Live
+
+* [LP 13 instructions](brno/lp-13.md)
