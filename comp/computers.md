@@ -7,3 +7,4 @@
 * legolas (2017 - ThinkPad X1 Carbon, light and elegant, elvish)
 * balrog (2018 - desktop, big and heavy full of fury)
 * galadriel (2018 - XPS, girly, can punch)
+* ulmo (2020 - a new VPS)

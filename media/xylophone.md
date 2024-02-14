@@ -139,7 +139,7 @@ L: 1/8
 K: Amin
 E |: "Am" A>G AB | cA Ac | "G" BG GB | "Am" c/B/A/G/ AE |
      "Am" A>G AB | cA Ac | "F" de/d/ "G" cB |1 "Am" cA A2 \
-	                                       :|2 "Am" cA Ac ||
+                                           :|2 "Am" cA Ac ||
 |: "C" ee/e/ dc | "G" BG GB | "Dm" de/d/ "G" cB | "Am" AB "G" cd |
    "C" ee/e/ dc | "G" BG GB | "F"  de/d/ "G" cB |1 "Am" cA Ac \
                                                :|2 "Am" cA A2 ||
