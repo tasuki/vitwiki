@@ -1,7 +1,7 @@
 // Slavíček, slávy check?
 //
 // Tested working with: Ammonite Repl 2.5.5, Scala 2.13
-// From repo root, run: `amm relax/slavicheck.sc`
+// From repo root, run: `amm words/slavicheck.sc`
 
 import scala.io.Source
 
@@ -33,7 +33,7 @@ def findBad(pair: (Line, Line)): List[Int] = {
 }
 
 
-val lines: List[String] = Source.fromFile("relax/slavy-dcera.md").getLines.toList
+val lines: List[String] = Source.fromFile("words/slavy-dcera.md").getLines.toList
 
 val casomira = lines.zipWithIndex
 .map(l => Line(l._2, l._1))
