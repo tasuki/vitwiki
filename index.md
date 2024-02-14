@@ -60,9 +60,10 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 * [Slávy dcera](words/slavy-dcera.md), protože bych chtěl zjistit, jak se má číst
 * [Desiderata](words/desiderata.md)
 * [Anagrams](words/anagram.md)
+* [Toki Pona](words/toki-pona.md)
 
 
-## Sounds & moving pictures
+## Sounds & Moving Pictures
 
 ### Produce
 
