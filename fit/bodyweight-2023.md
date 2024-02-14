@@ -437,3 +437,32 @@
 - Fri 24: 7 tibetans, squats 2×10, pullup 2×5
 - Sat 25: 7 tibetans, full bridge 1×5
 - Sun 26: ~
+
+48. week, November
+
+- Mon 27: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 28: 7 tibetans, squats 2×10, pullup 2×5
+- Wed 29: 7 tibetans, full bridge 1×5
+- Thu 30: 7 tibetans, pushup 2×10, leg raise 2×10
+- Fri 01: ~
+- Sat 02: ~
+- Sun 03: ~
+
+49. week, December
+
+- Mon 04: ~
+- Tue 05: 7 tibetans, squats 2×10, pullup 2×5
+- Wed 06: ~
+- Thu 07: ~
+- Fri 08: ~
+- Sat 09: ~
+- Sun 10: ~
+
+50. week, December
+
+- Mon 11: 7 tibetans, pushup 2×10, leg raise 2×10
+- Tue 12: 7 tibetans, squats 2×10, pullup 2×5
+
+---
+
+In which I stop all exercising on Dec 13 same as last year.
