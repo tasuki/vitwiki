@@ -39,6 +39,10 @@ val casomira = lines.zipWithIndex
 .map(l => Line(l._2, l._1))
 .filter(_.content.startsWith("-")).grouped(2).map {
   case List(a, b) => (a, b)
+  case _ => throw new Exception(
+    "I just want the compiler warning to go away. " +
+    "This will never happen. Ha ha."
+  )
 }
 
 val bads: List[Int] = casomira.flatMap(findBad).toList

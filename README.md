@@ -29,3 +29,11 @@ Probably `fd` and `pandoc`, `php` for the dev web server. On Debians: `sudo apt 
 	make build
 
 That creates html files with links without the `.html` part, requiring server-side url rewrites.
+
+## Scala scripts
+
+This repo contains some Ammonite scripts. To run them, install Ammonite:
+
+	curl -L https://github.com/lihaoyi/ammonite/releases/download/2.5.5/2.13-2.5.5 > amm
+	chmod +x amm && mv amm ~/.local/bin/
+

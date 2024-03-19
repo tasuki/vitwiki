@@ -2,7 +2,8 @@
 // Doesn't deal with year borders. Deal with it.
 //
 // Tested working with: Ammonite Repl 2.5.5, Scala 2.13
-// From repo root, run: `amm fit/fitcal.sc`
+// From repo root, run something like (make sure the file exists):
+// `amm fit/fitcal.sc --file fit/bodyweight-2020.md`
 
 import java.time.format.DateTimeFormatter
 import java.time.{DayOfWeek, LocalDate}
