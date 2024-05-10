@@ -47,6 +47,7 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 * [Online courses](comp/courses.md)
 * [Learning to play games](comp/games.md)
 * [My computers](comp/computers.md)
+* [Font things](comp/fonts.md)
 
 ### Keyboard Shortcuts
 
