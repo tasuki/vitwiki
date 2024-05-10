@@ -36,6 +36,7 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 ## Play
 
 * [Go](games/go/go.md), a list of my game records
+* [Go variants](games/go/variants.md), {thoughts on/ideas for} go variants
 * [Board games](games/board-fav.md), my favourite ones
 * [Board game mechanisms](games/board-mech.md)
 * [Computer games](games/computer.md)
