@@ -46,7 +46,7 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 
 * [Play to learn](comp/play.md)
 * [Online courses](comp/courses.md)
-* [Learning to play games](comp/games.md)
+* [Learn to play](comp/games.md)
 * [My computers](comp/computers.md)
 * [Font things](comp/fonts.md)
 
