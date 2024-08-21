@@ -49,3 +49,7 @@ Super easy brew green tea. Best to start from 80°C, but anything goes. Makes an
 ### 2016 Yunnan Sourcing "Red Monkey" Raw Pu-erh Tea Mini Cake
 
 A good young cheap sheng puerh, no longer available.
+
+### [Laoshan Green](https://yunnansourcing.com/products/imperial-grade-laoshan-green-tea-from-shandong)
+
+I've tried the imperial variety, which was mighty impressive, with some sencha-like characteristics while being much easier to brew. To do: try the classic and competition grades.
