@@ -63,6 +63,7 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 * [Desiderata](words/desiderata.md)
 * [Anagrams](words/anagram.md)
 * [Toki Pona](words/toki-pona.md)
+* [Intro to The Collected Songs of Cold Mountain](words/red-pine.md)
 
 
 ## Sounds & Moving Pictures
