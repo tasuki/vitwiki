@@ -33,4 +33,5 @@
 * [2023-11-11-2-cipra.sgf](2023-11-11-2-cipra.sgf)
 * [2023-11-11-3-zbynek.sgf](2023-11-11-3-zbynek.sgf)
 * [2023-11-22-leszczyn.sgf](2023-11-22-leszczyn.sgf)
+* [2023-11-26-czarek.sgf](2023-11-26-czarek.sgf)
 * [2023-11-26-paulolops.sgf](2023-11-26-paulolops.sgf)
