@@ -55,6 +55,7 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 * [IntelliJ IDEA](comp/shortcuts/intellij.md)
 * [Darktable](comp/shortcuts/darktable.md)
 * [WeeChat](comp/shortcuts/weechat.md)
+* [yt-dlp](comp/shortcuts/yt-dlp.md)
 
 
 ## Words
