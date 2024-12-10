@@ -47,7 +47,7 @@ C2E2 | FED2 | C4   | E2G2 | AGF2 | E4   |
 E2G2 | GFFA | D2F2 | FEEG | C2E2 | FED2 | C4 |
 ```
 
-### To ta Heľpa
+### [To ta Heľpa](/words/lyrics/to-ta-helpa.md)
 
 ```
 X: 1
@@ -90,7 +90,7 @@ G/A/ G/F/ E C | G/A/ G/F/ E C | C G, C2 | C G, C2 |
 
 ## Anglosaxon / Irisz
 
-### Green sleeve
+### [Green sleeve](/words/lyrics/greensleeves.md)
 
 ```
 X: 1
@@ -119,7 +119,7 @@ L: 1/8
         "Dm" dAA2 dAfA | dAA2 cdef | "C" gedB cAGE | "Dm" CDEC D2 :|
 ```
 
-### Walking in the Air (from The Snowman)
+### [Walking in the Air (from The Snowman)](/words/lyrics/walking-in-the-air.md)
 
 ```
 X: 1
