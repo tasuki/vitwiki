@@ -6,6 +6,8 @@
 * 2017 Silver et all, [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf) (Alpha Zero)
 * 2019 David Wu (Katago), [Accelerating Self-Play Learning in Go](https://arxiv.org/pdf/1902.10565.pdf)
 * 2020 Silver et all, [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/pdf/1911.08265.pdf) (Mu Zero)
+* 2021 Weirui Ya et al, [Mastering Atari Games with Limited Data](https://arxiv.org/pdf/2111.00210) (Efficient Zero; see also [github](https://github.com/YeWR/EfficientZero) and [lesswrong](https://www.lesswrong.com/posts/mRwJce3npmzbKfxws/efficientzero-how-it-works))
+* 2022 Silver et al, [Planning in Stochastic Environments with a Learned Model](https://openreview.net/pdf?id=X6D9bAHhBQ1) (Stochastic MuZero, [github](https://github.com/DHDev0/Stochastic-muzero))
 
 ## Interesting Repositories
 
