@@ -3,7 +3,7 @@
 .abcrendered { color: #586e75; width: 770px; transform: translate(-88px) scale(0.8); }
 .abcrendered text { font-family: Alegreya; font-weight: normal; }
 </style>
-<script src="https://www.abcjs.net/abcjs-plugin-min.js" type="text/javascript"></script>
+<script src="/assets/abcjs-plugin-min.js" type="text/javascript"></script>
 
 
 # Xylophone
