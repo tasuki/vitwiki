@@ -1,3 +1,8 @@
+<script type="text/javascript" src="/assets/wgo-plugin.js"></script>
+<script type="text/javascript" src="/assets/wgo/wgo.min.js"></script>
+<script type="text/javascript" src="/assets/wgo/wgo.player.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/assets/wgo/wgo.player.css" />
+
 * [2005-01-23.sgf](2005-01-23.sgf)
 * [2005-03-19.sgf](2005-03-19.sgf)
 * [2005-09-04.sgf](2005-09-04.sgf)

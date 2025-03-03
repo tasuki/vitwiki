@@ -1,3 +1,8 @@
+<script type="text/javascript" src="/assets/wgo-plugin.js"></script>
+<script type="text/javascript" src="/assets/wgo/wgo.min.js"></script>
+<script type="text/javascript" src="/assets/wgo/wgo.player.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/assets/wgo/wgo.player.css" />
+
 # 2019, the year I started recording my games again
 
 * [2019-05-waw-higaki.sgf](2019-05-waw-higaki.sgf)
