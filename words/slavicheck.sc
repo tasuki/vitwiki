@@ -1,6 +1,6 @@
 // Slavíček, slávy check?
 //
-// Tested working with: Ammonite Repl 2.5.5, Scala 2.13
+// Tested working with: Ammonite Repl 3.0.2, Scala 3.5
 // From repo root, run: `amm words/slavicheck.sc`
 
 import scala.io.Source
