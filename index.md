@@ -13,7 +13,6 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 * [Placuszki bananowe](cook/placuszki-bananowe.md)
 * [Placky cuketové](cook/placky-cuketove.md)
 * [Racuchy](cook/racuchy.md)
-* [Jablečný dort](cook/jablecny-dort.md)
 * [Špagáty s lososem a cuketou](cook/spagety-losos-cuketa.md)
 * [Švestkové knedlíky](cook/svestkove-knedliky.md)
 * [Šťouchané brambory](cook/stouchane.md)
@@ -26,6 +25,11 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 * [Pizza](cook/pizza.md)
 * [Štrůdl](cook/strudl.md)
 * [Brownie](cook/brownie.md)
+
+### Cold
+
+* [Jablečný dort](cook/jablecny-dort.md)
+* [Vaječná pomazánka](cook/vajecna-pomazanka.md)
 
 ### Drink
 
