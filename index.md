@@ -8,14 +8,17 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 ### Cook
 
 * [Béchamel](cook/bechamel.md)
+* [Jablečný dort](cook/jablecny-dort.md)
 * [Lecso](cook/lecso.md)
 * [Palačinky](cook/palacinky.md)
 * [Placuszki bananowe](cook/placuszki-bananowe.md)
+* [Placky bramborové](cook/placky-bramborove.md)
 * [Placky cuketové](cook/placky-cuketove.md)
 * [Racuchy](cook/racuchy.md)
 * [Špagáty s lososem a cuketou](cook/spagety-losos-cuketa.md)
 * [Švestkové knedlíky](cook/svestkove-knedliky.md)
 * [Šťouchané brambory](cook/stouchane.md)
+* [Vaječná pomazánka](cook/vajecna-pomazanka.md)
 * [Zupa rosół](cook/zupa.md)
 
 ### Bake
@@ -25,11 +28,6 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 * [Pizza](cook/pizza.md)
 * [Štrůdl](cook/strudl.md)
 * [Brownie](cook/brownie.md)
-
-### Cold
-
-* [Jablečný dort](cook/jablecny-dort.md)
-* [Vaječná pomazánka](cook/vajecna-pomazanka.md)
 
 ### Drink
 
