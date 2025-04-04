@@ -5,6 +5,8 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 
 ## Food
 
+[External recipes](cook/links.md)
+
 ### Cook
 
 * [Béchamel](cook/bechamel.md)
