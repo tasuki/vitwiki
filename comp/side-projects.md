@@ -4,10 +4,8 @@ Whatever is finished should not be here. Whatever hasn't started should not be h
 
 ## [Game Comment](https://games.tasuki.org/)
 
-- This really really needs finishing, so much work done already and so little left to do...
-- The backend is ready for user accounts/comments.
-- The frontend isn't. Where to put the register/login buttons?
-- Handle comment posting/displaying.
+- Comment editing
+- Show game tree
 
 ## [ContinuGo](https://continugo.tasuki.org/)
 
@@ -16,6 +14,8 @@ Whatever is finished should not be here. Whatever hasn't started should not be h
 	1. A (simple) backend 🙈
 	2. Frontend accommodations: a way to create a game.
 	3. Frontend accommodations: a mode to allow exploring ahead without submitting the move. An idea: just draw circles. But then, how does one submit a move?
+	4. Real time updates. Server-Sent Events?
+	5. Absolutely no chat, but if anyone uses this they'll want chat 🙈
 - If we had a backend, it should be easy to create a tournament. Why even have a backend if not for a tournament? But...
 	1. A tournament would definitely require user accounts.
 	2. And (server-side) time management.
