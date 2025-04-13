@@ -1,4 +1,4 @@
-# Hruškový salát
+# Hruškový Salát
 
 4 porce asi...
 

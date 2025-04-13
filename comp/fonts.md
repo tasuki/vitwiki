@@ -1,4 +1,4 @@
-# Font things
+# Font Things
 
 - A tiny [python script](font-subsetting.py) to subset fonts, the other options were worse.
 

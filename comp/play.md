@@ -1,4 +1,4 @@
-# Play to Learn
+# Play To Learn
 
 * [Scratch](https://scratch.mit.edu/) - visual programming
 * [RoboZZle](http://www.robozzle.com/) - program robot, collect stars; [my evolutionary solver](https://github.com/tasuki/zlej-rob)

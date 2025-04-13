@@ -1,4 +1,4 @@
-# No-bullshit recipe websites
+# No-bullshit Recipe Websites
 
 * [Kuchařka pro dceru](https://kucharkaprodceru.cz/)
 * [Ania Gotuje](https://aniagotuje.pl/)

@@ -1,4 +1,4 @@
-# Darktable, awesome but real confusing
+# Darktable, Awesome But Real Confusing
 
 
 ## Lighttable

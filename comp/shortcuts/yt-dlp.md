@@ -1,4 +1,4 @@
-# Downloading music from YooTube
+# Downloading Music From YooTube
 
 Not really shortcuts, but here we go...
 

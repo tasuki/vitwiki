@@ -1,4 +1,4 @@
-# Jablečný dort
+# Jablečný Dort
 
 * 75 dg jablek (4 velká jablka, ale zvážit!)
 * 10 dg cukru

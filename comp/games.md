@@ -1,4 +1,4 @@
-# Game-playing by Computers
+# Game-Playing By Computers
 
 ## Papers
 

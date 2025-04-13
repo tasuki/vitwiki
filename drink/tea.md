@@ -1,4 +1,4 @@
-# Teas I've enjoyed
+# Teas I've Enjoyed
 
 ## Japan
 
