@@ -43,11 +43,3 @@ Merge two GeoTIFFs with the same boundaries, taking max value from each:
 gdal_calc.py -A in1.tif -B in2.tif --outfile=out.tif \
 	--calc="maximum(A,B)" --format=GTiff --co="COMPRESS=DEFLATE"
 ```
-
-
-### Sum GeoTIFFs (eg sparse LiDAR point clouds)
-
-```
-gdal_translate -b mask -of COG -co COMPRESS=DEFLATE ortho_2024_podzim_14.tif ortho_2024_podzim_14_mask_deflate.tif
-```
-
