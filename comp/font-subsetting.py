@@ -6,12 +6,12 @@ from pathlib import Path
 home = Path.home()
 
 fonts = {
-    f"{home}/Downloads/ArrowType-Recursive-1.085/Recursive_Web/woff2_static/RecursiveMonoCslSt-Regular.woff2":
-        f"{home}/data/prog/continugo/media/rec-mono-csl-regular.woff2",
-    f"{home}/Downloads/ArrowType-Recursive-1.085/Recursive_Web/woff2_static/RecursiveMonoCslSt-Italic.woff2":
-        f"{home}/data/prog/continugo/media/rec-mono-csl-italic.woff2",
-    f"{home}/Downloads/ArrowType-Recursive-1.085/Recursive_Web/woff2_static/RecursiveMonoCslSt-Bold.woff2":
-        f"{home}/data/prog/continugo/media/rec-mono-csl-bold.woff2",
+    f"{home}/.fonts/RecursiveMonoCslSt-Regular.woff2":
+        f"{home}/.fonts/rec-mono-csl-regular.woff2",
+    f"{home}/.fonts/RecursiveMonoCslSt-Italic.woff2":
+        f"{home}/.fonts/rec-mono-csl-italic.woff2",
+    f"{home}/.fonts/RecursiveMonoCslSt-Bold.woff2":
+        f"{home}/.fonts/rec-mono-csl-bold.woff2",
 }
 
 # basic latin, left/right angle quotation marks, curly apostrophe
@@ -21,8 +21,8 @@ for src, dst in fonts.items():
     args = [
         src,
         limit,
-        "--no-layout-closure",
+        f"--no-layout-closure",
         f"--output-file={dst}",
-        "--flavor=woff2",
+        f"--flavor=woff2",
     ]
     subset.main(args)
