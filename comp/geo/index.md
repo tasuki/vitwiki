@@ -1,4 +1,4 @@
-# Geo things
+# Geo Things
 
 ## 2d
 
