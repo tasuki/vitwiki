@@ -6,6 +6,7 @@ Whatever is finished should not be here. Whatever hasn't started should not be h
 
 - Comment editing
 - Show game tree
+- Toggle coordinates
 
 ## [ContinuGo](https://continugo.tasuki.org/)
 
