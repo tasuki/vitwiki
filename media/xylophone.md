@@ -58,6 +58,16 @@ L: 1/4
    A,EED | GEED | C3/ A,/C/ B,3/ | A,2 A,2 :|
 ```
 
+### [Princezna ze mlejna (Vím jedno návrší)](/words/lyrics/princezna-ze-mlejna.md)
+
+```
+X: 1
+L: 1/4
+GG/A/G E/D/ECDA,C3 E/F/G G/A/GCF3
+|:F/G/AA/G/AA/c/G/F/E/F/G
+E/F/GG/E/D/C/D/E/C3:|
+```
+
 ### Batalion (Tourdion)
 
 ```
