@@ -92,5 +92,6 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 
 ## Live
 
+* [Brno](brno/brno.md)
 * [LP 13 instructions](brno/lp-13.md)
 * [Fitness](fit/index.md)
