@@ -42,7 +42,7 @@ done
 
 Turn a GeoTIFF into COG (fast viewing):
 ```
-gdal_translate -of COG -co COMPRESS=DEFLATE in.tif out.tif
+gdal_translate -of COG -co COMPRESS=DEFLATE -co PREDICTOR=YES in.tif out.tif
 ```
 
 Turn an orthophoto GeoTIFF into COG with JPEG compression:
