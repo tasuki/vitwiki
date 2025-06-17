@@ -21,7 +21,7 @@ ogr2ogr -f GPKG out.gpkg in.gpkg -t_srs EPSG:4326
 
 ## Rasters
 
-- Use compression, `DEFLATE` for lossless, `JPEG` for lossy (large orthophotos).
+- Use compression, `DEFLATE` for single-band (eg DSM), `YCbCr JPEG` for RGB (eg orthophotos).
 - Use `COG` (Cloud Optimized GeoTIFF) for whatever needs to be opened in QGIS.
 
 Inspect a GeoTIFF:
@@ -40,12 +40,12 @@ for f in *.tif; do
 done
 ```
 
-Turn a GeoTIFF into COG (fast viewing):
+Turn a single-band GeoTIFF into COG:
 ```
 gdal_translate -of COG -co COMPRESS=DEFLATE -co PREDICTOR=YES in.tif out.tif
 ```
 
-Turn an orthophoto GeoTIFF into COG with JPEG compression:
+Turn a RGB GeoTIFF into COG with JPEG compression:
 ```
 gdal_translate -of COG -co COMPRESS=JPEG in.tif out.tif
 ```
@@ -53,6 +53,25 @@ gdal_translate -of COG -co COMPRESS=JPEG in.tif out.tif
 Merge GeoTIFFs:
 ```
 gdalwarp -of COG -co COMPRESS=DEFLATE in*.tif out.tif
+```
+
+### Clip GeoTIFF by mask
+
+RGB:
+```
+gdalwarp -of GTIFF -co TILED=YES -overwrite -dstalpha \
+    -cutline mask.gpkg -crop_to_cutline \
+    in.tif /tmp/tmp_clipped.tif
+gdal_translate -of COG -co COMPRESS=JPEG /tmp/tmp_clipped.tif out.tif
+```
+
+Single-band:
+```
+gdalwarp -of GTIFF -co TILED=YES -overwrite -dstalpha \
+    -cutline mask.gpkg -crop_to_cutline \
+    in.tif /tmp/tmp_clipped.tif
+gdal_translate -of COG -co COMPRESS=DEFLATE -co PREDICTOR=YES \
+	-b 1 -mask 2 /tmp/tmp_clipped.tif out.tif
 ```
 
 ### Sum GeoTIFFs (eg sparse LiDAR point clouds)
