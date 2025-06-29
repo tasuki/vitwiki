@@ -77,6 +77,7 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 * [Toki Pona](words/toki-pona.md)
 * [Intro to The Collected Songs of Cold Mountain](words/red-pine.md)
 * [Quotes](words/quotes.md)
+* [Hádanky s ozvěnou](words/hadanky-s-ozvenou.md)
 
 
 ## Sounds & Moving Pictures
