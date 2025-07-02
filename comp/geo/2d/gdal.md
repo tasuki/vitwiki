@@ -9,6 +9,16 @@
 - Prefer `GPKG`.
 - Consider compressing `GeoJSON` files.
 
+Convert:
+```
+ogr2ogr -f GPKG out.gpkg in.json
+```
+
+Convert and set layer name:
+```
+ogr2ogr -f GPKG out.gpkg in.json -nln layername
+```
+
 Reproject:
 ```
 ogr2ogr -f GeoJSON out.json in.json -t_srs EPSG:4326
