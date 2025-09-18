@@ -12,8 +12,12 @@ Compress:
 pdal translate points.{las,laz}
 ```
 
-Cloth Simulation Filter:
+Merge, while preserving 1 mm precision:
 
 ```
-
+pdal merge all/*.laz all.laz --writers.las.scale_x=0.001 --writers.las.scale_y=0.001 --writers.las.scale_z=0.001
 ```
+
+## Custom fields
+
+PDAL happily ignores custom fields. So does CloudCompare. Use [laspy](laspy.md)

@@ -65,6 +65,18 @@ Merge GeoTIFFs:
 gdalwarp -of COG -co COMPRESS=DEFLATE in*.tif out.tif
 ```
 
+### Transparency
+
+There are at least three ways a GeoTIFF can encode transparency:
+- an alpha band (usually the 4th band)
+- a `nodata` value
+- a `PER_DATASET` mask
+
+Set a `nodata` value:
+```
+gdal_translate -a_nodata 0 -of COG -co COMPRESS=JPEG in.tif out.tif
+```
+
 ### Clip GeoTIFF by mask
 
 RGB:
