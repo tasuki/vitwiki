@@ -54,6 +54,7 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 * [My side projects](comp/side-projects.md)
 * [My computers](comp/computers.md)
 * [Font things](comp/fonts.md)
+* [Shaders](comp/shaders.md)
 
 ### Keyboard Shortcuts
 
@@ -66,7 +67,6 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 * [Syncthing](comp/shortcuts/syncthing.md)
 * [WeeChat](comp/shortcuts/weechat.md)
 * [Geo things](comp/geo/index.md)
-
 
 
 ## Words
