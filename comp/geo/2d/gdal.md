@@ -52,29 +52,29 @@ done
 
 Turn a single-band GeoTIFF into COG:
 ```
-gdal_translate -of COG -co COMPRESS=DEFLATE -co PREDICTOR=YES in.tif out.tif
+gdal_translate -of COG -stats -co COMPRESS=DEFLATE -co PREDICTOR=YES in.tif out.tif
 ```
 
 Turn a RGB GeoTIFF into COG with JPEG compression:
 ```
-gdal_translate -of COG -co COMPRESS=JPEG in.tif out.tif
+gdal_translate -of COG -stats -co COMPRESS=JPEG in.tif out.tif
 ```
 
 Merge GeoTIFFs:
 ```
-gdalwarp -of COG -co COMPRESS=DEFLATE in*.tif out.tif
+gdalwarp -of COG -stats -co COMPRESS=DEFLATE in*.tif out.tif
 ```
 
 ### Transparency
 
-There are at least three ways a GeoTIFF can encode transparency:
-- an alpha band (usually the 4th band)
-- a `nodata` value
-- a `PER_DATASET` mask
+There are at least four ways a GeoTIFF can encode transparency:
+- an alpha band (for RGB, the 4th band): rather heavy, allows partial transparency
+- a `nodata` value: one loses the
+- a `PER_DATASET` mask: the most ergonomic option, global bitmask
 
 Set a `nodata` value:
 ```
-gdal_translate -a_nodata 0 -of COG -co COMPRESS=JPEG in.tif out.tif
+gdal_translate -a_nodata 0 -of COG -stats -co COMPRESS=JPEG in.tif out.tif
 ```
 
 ### Clip GeoTIFF by mask
@@ -84,7 +84,7 @@ RGB:
 gdalwarp -of GTIFF -co TILED=YES -overwrite -dstalpha \
     -cutline mask.gpkg -crop_to_cutline \
     in.tif /tmp/tmp_clipped.tif
-gdal_translate -of COG -co COMPRESS=JPEG /tmp/tmp_clipped.tif out.tif
+gdal_translate -of COG -stats -co COMPRESS=JPEG /tmp/tmp_clipped.tif out.tif
 ```
 
 Single-band:
@@ -92,7 +92,7 @@ Single-band:
 gdalwarp -of GTIFF -co TILED=YES -overwrite -dstalpha \
     -cutline mask.gpkg -crop_to_cutline \
     in.tif /tmp/tmp_clipped.tif
-gdal_translate -of COG -co COMPRESS=DEFLATE -co PREDICTOR=YES \
+gdal_translate -of COG -stats -co COMPRESS=DEFLATE -co PREDICTOR=YES \
 	-b 1 -mask 2 /tmp/tmp_clipped.tif out.tif
 ```
 
