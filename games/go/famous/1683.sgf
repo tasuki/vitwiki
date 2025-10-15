@@ -1,0 +1,128 @@
+(;AB[pd][dp]RE[B+1]GN[Dosaku's masterpiece]DT[1683-11-19]PB[Yasui Sanchi]PW[Honinbo Dosaku]HA[2]US[tasuki];W[cd];B[ec];W[nc];B[qg]C[ Black 4. The ogeima used to be the standard response to the kogeima kakari against hoshi. ];W[ic]
+(;B[qp]C[ 6 is in the wrong direction. ];W[oq];B[lq];W[dc]
+(;B[cm]C[ 10 is an old-style move. ];W[qc];B[pc];W[qd]
+(;B[qe]C[ 14 is a suspect move. ];W[re];B[qf];W[pb];B[ob];W[qb];B[oc]C[ This result is bad for Black. White can expose his weak points with A or B. ];W[qm];B[po];W[qj]C[ 23 is effectively sente. ];B[nd]C[ Black cannot allow White to follow up at 24. ]
+;W[ed]
+(;B[cj]C[ 26 is too small-scale and low. ]
+(;W[lp]C[ 27 is an aggressive move. ]
+(;B[kp];W[mq]
+(;B[lo]C[ 30 is slightly dubious. ];W[mp];B[kq]
+(;W[on];B[pq];W[ko]
+(;B[jo]C[ Black has to sacrifice the \\t stone. ];W[kn];B[jn]
+(;W[ip]C[ 39 is an excellent countermeasure to Black's sequence, and is the main reason why \\t would have been better left unplayed. ];B[km];W[ln];B[jp]
+(;W[fq]C[ 43 is an attempt to settle White quickly. ];B[eq];W[fp];B[hq];W[iq];B[hp];W[do];B[co];W[dn];B[cn];W[er];B[dr];W[gr]
+;B[hr];W[cq]
+(;B[es]C[ 58 is a good answer to White's invasion. ]
+(;W[dq]C[ 59, starting a ko, is inevitable. ];B[fr];W[ep];B[cp];W[er]
+(;B[lm]C[ 64 is a valid ko threat but is also aji-keshi. ];W[mn];B[eq];W[pr]C[ Black has no more valid threats, so he has to ignore 67. ];B[er];W[qr]C[ He has to connect the ko, but White gains from the exchange. ]
+(;B[rf]C[ 70 has been almost universally condemned as a poor move. (Some people think Black may have been aiming at A on the right side, but 70 seems to have no effect on this possibility.) ];W[nb];B[mc];W[mb]
+(;B[lc];W[lb]
+(;B[oa]C[ After 76, White is happy to abandon the corner in sente. ];W[kc];B[rd];W[ho];B[go];W[gn];B[hn];W[io]
+(;B[ir]C[ Black 84 is submissive but necessary. ];W[fo]
+(;B[gp]C[ Black 86 is forced. ];W[dj]
+(;B[ci]C[ 88 is a solid move. ];W[dl];B[cl];W[hm];B[in];W[cg];B[gm];W[fn];B[gl];W[gk]C[ 97 is a nice tesuji for saving the white group. ]
+(;B[hk]C[ Black has to give way at 98. ];W[gj];B[fl];W[el];B[ej]
+(;W[ei]C[ 03 is another tesuji. ];B[di];W[fk];B[hl];W[eh]C[ White saves his group and builds up his top moyo. ];B[dg]C[ 08 is a strong move. ];W[dh];B[ch]
+(;W[eg]C[ 11 is necessary. ];B[bg];W[df]C[ Black is left with a large yose at A. ];B[hj]C[ 14 is a thick move aiming at the forcing hane of A. ]
+(;W[md]C[ 15 is probably the best White can do. ];B[if];W[ne];B[oe];W[of]C[ White's double hane is a good answer to the \\t erasing move. ];B[ql]
+(;W[pl]C[ White has no defence against 20. ];B[qk];W[pk];B[rm]
+(;W[qn];B[rj]
+(;W[ri]C[ 27 is a tesuji. ];B[qi];W[pj];B[rk]C[ There is some aji left in the \\t stone. ];W[rn]C[ Black destroys White's side territory in sente. ];B[bf]C[ This is the biggest move left, (about 15 points) and is sufficient to win the game. ]
+(;W[od]C[ Capturing at 33 is White's privilege. ];B[gi];W[ek];B[nd];W[hh];B[ih];W[od];B[pe];W[hg];B[ig]
+(;W[hf];B[hi]
+(;W[qh];B[rh];W[pi];B[si];W[sm]C[ 49 is reverse sente. ];B[sl];W[rl];B[dm];W[em];B[rm];W[sn];B[ad]C[ Black could have played 56 almost any time he liked. ]
+;W[bc];B[he];W[ie];B[je];W[id];B[gf];W[ge];B[gg];W[hd];B[dk];W[fi];B[gh]C[ The result to 68 is gote but it ruins White's territory and leaves behind the possibility of capturing three stones. ];W[sj]
+
+(;B[qi];W[rc];B[se];W[ri]
+(;B[sh]C[ Black 74 is forced. ];W[qi];B[mj];W[rl];B[en]
+(;W[fm]C[ It's better for White to connect here and sacrifice two stones than to capture. ];B[rm];W[ml];B[mm];W[nm];B[ll];W[rl];B[mg]C[ 86 is another good move. At this stage both players probably knew Black would win by 1 point. ];W[mk];B[lk];W[nj]
+(;B[nk];W[nl];B[ni];W[mi]C[ 93 is a tesuji. ]
+(;B[lj]C[ Black has to connect at 94. ];W[nh];B[oj];W[mh];B[lh];W[lg];B[li];W[kf];B[jf];W[kh];B[kg]C[ 04 is a tesuji. ]
+(;W[lf];B[rm];W[sd];B[sc];W[rl];B[eo];W[gq];B[gs];W[fj]C[ 11 and 13 are only worth 3 points in reverse sente, but this is now big, and it also leaves A and B as ko threats. ];B[sb]C[ 14 eliminates the dangerous ko that could develop if White played there. ];W[jg];B[ki]
+;W[lr]C[ White 17 stops Black playing there in sente. ];B[kr];W[be];B[ae];W[ac];B[rm];W[cr]C[ White is threatening to live here with White A, Black B, White C. ];B[br];W[rl];B[ff]
+(;W[cf]C[ White's answer at 27 is essential. ];B[fe];W[fd];B[rm];W[hs];B[is];W[rl];B[nd];W[me];B[rm];W[bh];B[bi];W[rl]
+;B[he];W[hf];B[mr];W[nr];B[ls];W[sk];B[ke];W[le];B[og];W[ng];B[pf];W[ok];B[nf]
+;W[oh];B[nj];W[dj]
+(;B[ah]C[ Black has no option but to play 56 here. ];W[ck];B[bk];W[af];B[ag];W[dk];B[hg];W[he];B[ee];W[de];B[jh];W[kg];B[na]
+;W[ma];B[jd];W[jc];B[kd];W[ld];B[ns];W[os];B[ms];W[od])
+(;B[ck];W[bd]C[   Connecting would give White two captives instead of one. ]))
+(;W[fe];B[ce];W[bd];B[de]C[   The sequence to 4 would cut off White's lower left group. ]))
+(;W[jg];B[mf]C[   If White captures, Black plays 2, threatening both A and B. ]))
+(;B[oj]C[   If Black captures here... ];W[lj];B[nj];W[nh];B[li];W[mh];B[kj];W[lh]C[   ...White pushes in at 8. ]))
+(;B[mi]C[   This move is safer, but Black might lose if he plays too securely. ]))
+(;W[eo];B[fm]C[   Black has plenty of ko threats now; 2 is the first. ];W[fj];B[rm]C[   Black can now play A as his next ko threat. ]))
+(;B[sk]C[   If Black 1 here, the black group is safe because of the double ko, but   Black needs the centre territory to win. ]))
+(;B[sh]C[   If Black plays here, White has some aji in the corner. ];W[rc];B[se];W[sb]C[   White 4 creates the possibility of a ko later on. ]))
+(;W[li]C[   This move would be trivial. ]))
+(;W[hi];B[ii]C[   If White plays 1 here, it strengthens Black and A is now gote. ]))
+(;W[rh]C[   White has the option of playing 1 here. ];B[qh];W[sl];B[rg];W[rl];B[sh]C[   White gains profit in sente, but he should not play this straight away. ])
+(;W[qh];B[rh];W[pi];B[si]C[   White should take account of Black's thickness in the centre and leave   himself the option of playing this way. ]))
+(;W[pj];B[ri]C[   If White played 1, Black 2 would leave no aji for White here. ]))
+(;W[rj]C[   White 1 is no good. ];B[qn];W[pm];B[ro]C[   Black lives easily with the moves to 4. ]))
+(;W[rl]C[   This hane looks good, but would be disastrous. ];B[rm];W[rn];B[pm];W[sm];B[qn];W[rm];B[pn];W[ol];B[pl];W[ok];B[ro];W[rq]C[   The sequence to 13 is forced. ]
+
+(;B[om];W[nm];B[nl]
+(;W[pj];B[op]
+(;W[nn];B[nq];W[or];B[mr]
+(;W[nr];B[np];W[mo];B[lr];W[ml];B[nk];W[mm];B[nj];W[lk];B[rk];W[qk];B[rj];W[ri]
+;B[qi];W[pi];B[ph];W[oi];B[rh]C[   The sequence is long but ends in a favourable ko for Black. ])
+(;W[np];B[nr];W[oo];B[mo];W[pp];B[gi];W[ek];B[op];W[no];B[mm]C[     Since Black has the two liberties marked X, he can play 10 instead of A,     and will win the ko easily. ]))
+(;W[mo]C[     Suppose White plays here instead? ];B[qq];W[oo];B[or];W[nq];B[sp]C[     6 threatens to live by cutting at the 2-2 point. ];W[rr];B[rk];W[qk];B[sn]C[     Black gets a favourable ko with 10. ])
+(;W[nq]C[     White's last possibility is this move here. ];B[no];W[nn];B[mo]C[     Black answers with 2 and 4. ];W[ml];B[nk];W[mm];B[nj];W[oo]C[     The sequence to 9 is forced. ];B[rk];W[rj];B[qk]
+;W[sk];B[so];W[sj];B[oj];W[pk];B[pi]C[     Black then captures White with the moves to 18. ]))
+(;W[nn]C[     White might try connecting here, but this doesn't work. ];B[pj];W[pk];B[qk];W[rk];B[rj];W[qi];B[ri];W[ph];B[oi]C[     Black 10 is a double threat. ];W[nk];B[oh]
+;W[pg];B[og];W[pf];B[nf]C[     White loses six stones and Black is alive. ]))
+(;B[pj]C[     This move is a mistake. ];W[pk];B[qk];W[rk]C[     Note that the \\t exchange fills two black liberties. The significance of     this will be seen later. ];B[rj];W[qi];B[ri]
+(;W[rh];B[om];W[nm];B[nl];W[qh];B[op];W[nn];B[nq];W[or];B[mr];W[np];B[nr];W[oo]
+;B[mo];W[pp];B[gi];W[ek];B[op];W[no];B[rp]C[     27 is necessary to prevent White playing A and setting up an oi-otoshi,     but this possibility only exists because the \\t exchange has reduced     Black's liberties. ];W[pp];B[dk];W[fi];B[op];W[lr]C[     White will win this ko; after 32 he has four ko threats here. ]
+)
+(;W[pi]C[       White cannot play here. ];B[sk];W[rh];B[sj]C[       2 and 4 are a well-known tesuji combination. ];W[sh];B[so];W[si];B[sn];W[sl];B[rj]C[       White is captured in ishi-no-shita. ]))))
+(;W[oj];B[le]C[   This is an alternative, but the thickness Black builds with 2 is probably   sufficient to win the game. ]))
+(;W[cf]C[   If White plays 1 or A he will be too thin in the centre. ];B[fi];W[fj];B[dk];W[ek]C[   Black will now have no problems demolishing the moyo. ]))
+(;W[fk]C[   If White simply blocks at 1 here, he ends in gote. ];B[hl];W[ei];B[dh]C[   Black gets sente to push in to the white moyo. ]))
+(;B[el];W[fl]C[   Black's clamp at 1 looks good, but White foils him by wedging at 2. ];B[fm];W[em];B[fk];W[hl];B[fl];W[fj];B[ek];W[ej]C[   Further resistance by Black is futile. ]))
+(;B[dk]
+(;W[ci]C[   If Black hanes, White can play 2 here to build up his moyo in the top   left. ])
+(;W[ek]C[     Alternatively, he could play here to rescue his weak group. ])))
+(;B[gm]C[   This move looks tempting but would be dangerous. ];W[gp];B[hm]
+(;W[fm];B[fl];W[jr];B[gq];W[gs];B[fs];W[cr];B[hs];W[dm];B[em];W[dl];B[ek];W[cl]
+;B[bl];W[bm];B[am];W[bk];B[bn];W[ck];B[bj];W[aj];B[ai];W[ak];B[ci];W[bp]C[   Black dies on the side. If he persists in trying to live... ];B[al]
+;W[ao];B[bo];W[bq];B[ap];W[aq];B[ar];W[cs];B[ds];W[jq]C[   ...Black dies at the bottom as well. ])
+(;W[dm]C[     This alternative is no better. ];B[el];W[dl];B[ek];W[bq];B[bp];W[gq];B[jr];W[cr];B[gs];W[cl];B[bl];W[bk]
+;B[bm];W[ck];B[bi];W[ap];B[ao];W[bn]C[     Since White can play A in sente, he will win this semeai. ])))
+(;B[gp]C[   Black cannot connect here. ];W[in];B[hm];W[im]
+(;B[jm];W[ir]C[   6 threatens to capture the black stones with A, so Black has to let the \\t   group out, splitting up Black's position. ])
+(;B[ir]C[     If Black tries to connect now... ];W[jm];B[jq];W[hl]C[     ...White can build central thickness this way. ])))
+(;B[kc];W[kb]C[   If Black plays 1 here, White again has the choice of living in the corner   or connecting underneath. ]))
+(;B[lb]C[   This move is no good. ];W[lc];B[md];W[kb];B[ld];W[la]C[   White can now either live in the corner or connect underneath. ]))
+(;B[fd]
+(;W[ee];B[hd];W[id];B[he];W[ie];B[hg]C[   This sequence would be more normal. ])
+(;W[fc];B[gk]C[     If White cuts, Black will regard this as a forcing exchange and swallow     up the white group in the lower left on a large scale. ])))
+(;B[pm];W[pn];B[qn];W[rn];B[qo];W[ql];B[mn]C[   Black's threat destroys the aji of this sequence. ];W[mo];B[lm];W[lo];B[nn]))
+(;W[fr];B[cr]C[   If White connects at 1, Black answers at 2. ];W[dq];B[bq];W[ep];B[cp];W[fn]C[   The same sequence as before ensues, but White now has no half eye on the   lower edge. ]))
+(;B[dq]C[   1 here would be a bad mistake. ];W[cp];B[cr];W[br];B[bs];W[ar];B[es];W[fr];B[bo];W[bq];B[cs];W[ep];B[bp]
+;W[fs]C[   Black ends up fighting an unfavourable three step ko. ])
+(;B[cr]C[   This move is also inferior, but White must be careful. ]
+(;W[cp]C[   If White plays here, he will be captured. ];B[bp];W[bq];B[br];W[aq];B[dq];W[bo];B[ar];W[ap];B[an])
+(;W[dq]C[     White must reply here. ];B[bq];W[ep];B[cp]
+(;W[fn]C[     White now has a half eye at A, so his group is nearly settled. ];B[go])
+(;W[ho]C[       White can also make shape at 1 here. ]))))
+(;W[dq]C[   This move looks attractive, but would be inadvisable. ];B[eq];W[er];B[ep];W[cr];B[fr];W[cp];B[es];W[dr];B[co];W[bo];B[bp];W[cq]
+
+(;B[cn];W[bq];B[gq]C[   Black's outside position is too good to allow. ])
+(;B[bn]C[     This atari would be a tragic blunder. ];W[do];B[ao];W[fq];B[gr];W[hq]C[     Black cannot now avoid losing one of the marked groups. ])))
+(;W[km];B[jm]C[   This only helps Black strengthen his wall. This is probably what Black was   hoping for when he played \\t. ]))
+(;B[ln];W[jo]C[   Pulling the \\t stone out would only provoke 2, limiting Black's prospects   on the left. ]))
+(;W[nn];B[pm]C[   Playing 1 here and letting Black escape is uninteresting. ]))
+(;B[kq]C[   The simple connection is probably better. ];W[on];B[oo];W[no];B[pq];W[nn];B[eq]C[   Black gets a large moyo. ]))
+(;B[mq];W[oo]C[   If Black plays nobi, White will dodge lightly at 2. ])
+(;B[mp]C[   Black must not play this hane. ];W[mq]
+(;B[kq];W[mo];B[np];W[op];B[no];W[oo];B[nn];W[on];B[nq];W[nm]C[   White rips the black position apart. ])
+(;B[mo];W[kq];B[lr];W[mr];B[kr];W[jq];B[kp];W[lo];B[jp];W[mn];B[iq];W[no]C[     This exchange clearly favours White. ])))
+(;W[np];B[on];W[mo];B[pq];W[kp]C[   This sequence would be more normal. ]))
+(;B[di]C[   Modern players would play 1 here, aiming at a follow-up at A, and   achieving better balance with \\t. ]))
+(;B[pe]C[   1 here would be better. ];W[qe];B[qf];W[pb];B[ob];W[qb];B[oc];W[ne];B[nf]
+(;W[me];B[mf];W[lf];B[og]C[   Black gets better shape than he got in the actual game. ])
+(;W[mf];B[ng]C[     If White hanes, pulling back at 2 is sufficient. ])))
+(;B[cj]C[   These days the extension here is preferred. ]))
+(;B[pq]C[   1 here is better. ];W[qo];B[pl]C[   This pincer now works well with Black's formation at the top. However, the   joseki following this move were not known in the 17th century. ]))
