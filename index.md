@@ -30,6 +30,7 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 * [Pizza](cook/pizza.md)
 * [Štrůdl](cook/strudl.md)
 * [Brownie](cook/brownie.md)
+* Learn: Cheesecake, Tiramisu, Gingerbread
 
 ### Drink
 
