@@ -77,6 +77,12 @@ Set a `nodata` value:
 gdal_translate -a_nodata 0 -of COG -stats -co COMPRESS=JPEG in.tif out.tif
 ```
 
+Reproject a 1-band tif with nodata:
+```
+gdalwarp -s_srs EPSG:4326 -t_srs EPSG:32633 -dstalpha in.tif tmp_alpha.tif
+rio cogeo create tmp_alpha.tif out.tif --cog-profile deflate --add-mask --bidx 1
+```
+
 ### Clip GeoTIFF by mask
 
 RGB:
