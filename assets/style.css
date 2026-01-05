@@ -10,26 +10,28 @@
 }
 
 :root {
-	--base3:  #022;
-	--base2:  #133;
-	--base1:  #355;
-	--base0:  #577;
-	--base00: #AA9;
-	--base01: #CCB;
-	--base02: #EED;
-	--base03: #FFE;
+	--base0: #FFE;
+	--base1: #EED;
+	--base2: #CCB;
+	--base3: #AA9;
+	--base4: #898;
+	--base5: #577;
+	--base6: #355;
+	--base7: #133;
+	--base8: #022;
 }
 
 @media (prefers-color-scheme: dark) {
 	:root {
-		--base03: #022;
-		--base02: #133;
-		--base01: #355;
-		--base00: #577;
-		--base0:  #AA9;
-		--base1:  #CCB;
-		--base2:  #EED;
-		--base3:  #FFE;
+		--base0: #022;
+		--base1: #133;
+		--base2: #355;
+		--base3: #577;
+		--base4: #898;
+		--base5: #AA9;
+		--base6: #CCB;
+		--base7: #EED;
+		--base8: #FFE;
 	}
 }
 
@@ -59,7 +61,7 @@
   src: url('/assets/fonts/jetbrains-mono-v13-latin-ext_latin-700.woff2') format('woff2');
 }
 
-html { background-color: var(--base03); color: var(--base0); font-family: Alegreya, serif; font-variant-numeric: tabular-nums; font-size: 18px; padding: 0px 10px; }
+html { background-color: var(--base0); color: var(--base5); font-family: Alegreya, serif; font-variant-numeric: tabular-nums; font-size: 18px; padding: 0px 10px; }
 #content { max-width: 650px; margin: auto; }
 #footer { font-size: 15px; margin-top: 2em; }
 #footer .item { white-space: nowrap; }
@@ -75,18 +77,18 @@ p, ul, ol, table, pre { margin: .5em 0; }
 h1, h2, h3, h4 { font-family: "Alegreya SC"; line-height: 1; margin-top: 1.5em; margin-bottom: 0em; }
 h1 { color: var(--orange); font-size: 30px; letter-spacing: -1px; }
 h2 { color: var(--yellow); font-size: 24px; }
-h3, h4 { color: var(--base00); font-size: 18px; letter-spacing: 1px; }
+h3, h4 { color: var(--base4); font-size: 18px; letter-spacing: 1px; }
 
 ul { list-style-type: "•  "; }
 ul, ol { padding-left: 25px; }
 li::marker { color: var(--magenta); }
 
 th { color: var(--yellow); text-align: left; }
-th, td { border: 0.1px solid var(--base02); border-collapse: collapse; padding: 2px 5px; }
-table { border: 0.1px solid var(--base02); border-collapse: collapse; }
+th, td { border: 0.1px solid var(--base1); border-collapse: collapse; padding: 2px 5px; }
+table { border: 0.1px solid var(--base1); border-collapse: collapse; }
 
 pre { overflow: auto; }
 
-hr { border: none; border-top: 1px dotted var(--base1); }
+hr { border: none; border-top: 1px dotted var(--base6); }
 
 @media screen and (max-width: 650px) { h1 { margin-top: 0em; } }
