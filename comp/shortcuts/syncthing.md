@@ -16,3 +16,9 @@ syncthing cli config devices add --device-id "$DEVICE_ID" --name "$DEVICE_NAME"
 syncthing cli config folders add --id "$SHARE_ID" --path "$SHARE_PATH"
 syncthing cli config folders "$SHARE_ID" devices add --device-id "$DEVICE_ID"
 ```
+
+See logs:
+
+```
+journalctl -u "syncthing@$USER.service"
+```
