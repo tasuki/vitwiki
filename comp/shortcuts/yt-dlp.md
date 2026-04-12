@@ -7,7 +7,7 @@ Not really shortcuts, but here we go...
 Download a playlist:
 
 ```
-yt-dlp -f bestaudio -x --audio-format mp3 --output "%(playlist_index)02d - %(title)s.%(ext)s" 'https://www.youtube.com/watch?list=playlist-id'
+yt-dlp --js-runtimes node -f bestaudio -x --audio-format mp3 --output "%(playlist_index)02d - %(title)s.%(ext)s" 'https://www.youtube.com/watch?list=playlist-id'
 ```
 
 ---
