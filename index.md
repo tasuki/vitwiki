@@ -58,6 +58,7 @@ Best if you understand English, Czech, and Polish. Píšu v jazyku, na který m�
 * [My computers](comp/computers.md)
 * [Font things](comp/fonts.md)
 * [Shaders](comp/shaders.md)
+* [LLMs](comp/llms.md)
 
 ### Keyboard Shortcuts
 
