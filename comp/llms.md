@@ -10,3 +10,5 @@ I need a subscription, per-pay-call causes me to not use the agent. And I probab
 
 - https://opencode.ai/go
 - https://platform.minimax.io/subscribe/token-plan
+- https://www.byteplus.com/en/activity/codingplan
+- https://z.ai/subscribe
