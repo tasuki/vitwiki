@@ -1,3 +1,7 @@
+In 2026 I started doing [orienteering](orientak.md)!
+
+---
+
 It was a good idea to track workouts. I stopped tracking them and then stopped doing them too.
 
 * [2023](bodyweight-2023.md)
