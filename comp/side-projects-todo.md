@@ -2,12 +2,6 @@
 
 Whatever is finished should not be here. Whatever hasn't started should not be here.
 
-## [Game Comment](https://games.tasuki.org/)
-
-- Comment editing
-- Show game tree
-- Toggle coordinates
-
 ## [ContinuGo](https://continugo.tasuki.org/)
 
 - Sitting pretty at ~2k loc. Perhaps could be considered finished. But...
@@ -22,9 +16,3 @@ Whatever is finished should not be here. Whatever hasn't started should not be h
 	2. And (server-side) time management.
 	3. And server-side move validation and final scoring to determine the game result.
 	4. Probably would have to finally implement the ko (ok, easy).
-
-## Iso-Maze
-
-- Try rewriting the visuals into shadertoy-style everything-in-the-fragment-shader.
-- Create a campaign. At least 10 levels.
-- Create a mobile app perhaps?
