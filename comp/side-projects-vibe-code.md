@@ -4,7 +4,7 @@
 
 Everyone does these and I hated their implementations, so [here's my LLM's implementation](https://github.com/tasuki/yliw). I use pi.dev with GPT 5.4 these days. It's ok. Can't get the sticky header right.
 
-## 2025-12 [Activity Clock](https://tulejer.vercel.app/)
+## 2025-12 [Activity Clock](https://v0-activity-clock.vercel.app/)
 
 A way to trick my kid. "You need to go to sleep now. It is not my fault, the clock says so, see?"
 
