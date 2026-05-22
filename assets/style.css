@@ -8,6 +8,8 @@
 	--violet:  #6A69DB;
 	--magenta: #C13B9F;
 
+	--bg-green: #E7F7BB;
+
 	--base0:   #FFF8E6;
 	--base1:   #E8E5D1;
 	--base2:   #D2D3BE;
@@ -29,6 +31,8 @@
 		--blue:    #249FF3;
 		--violet:  #8082F7;
 		--magenta: #DD56B8;
+
+		--bg-green: #3A460B;
 
 		--base0:   #002A31;
 		--base1:   #0D3A3C;
@@ -68,12 +72,14 @@
   src: url('/assets/fonts/jetbrains-mono-v13-latin-ext_latin-700.woff2') format('woff2');
 }
 
-html { background-color: var(--base0); color: var(--base5); font-family: Alegreya, serif; font-variant-numeric: tabular-nums; font-size: 18px; padding: 0px 10px; }
+html { background-color: var(--base0); color: var(--base5); color-scheme: light dark; font-family: Alegreya, serif; font-variant-numeric: tabular-nums; font-size: 18px; padding: 0px 10px; }
 #content { max-width: 650px; margin: auto; }
 #footer { font-size: 15px; margin-top: 2em; }
 #footer .item { white-space: nowrap; }
 
-code { color: var(--green); font-family: "JetBrains Mono"; font-size: 16px; }
+pre { background: var(--bg-green); border-radius: 5px; padding: 2px 5px; }
+code { background: var(--bg-green); color: var(--green); font-family: "JetBrains Mono"; font-size: 16px; padding: 0 3px; border-radius: 5px; }
+pre code { padding: 0; }
 
 a:link { color: var(--blue); }
 a:visited { color: var(--violet); }
