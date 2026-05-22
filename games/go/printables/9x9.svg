@@ -9,7 +9,7 @@
 	<circle id="hoshi-plain" cx="0" cy="0" r="1.2"/>
 	<path id="four-star"
 		stroke="black"
-		stroke-width="0.4"
+		stroke-width="0.5"
 		fill="white"
 		d="M -1 -1 L 0 -4 L 1 -1 L 4 0 L 1 1 L 0 4 L -1 1 L -4 0 L -1 -1"/>
 	<g id="hoshi-star">
