@@ -77,7 +77,7 @@ code { color: var(--green); font-family: "JetBrains Mono"; font-size: 16px; }
 
 a:link { color: var(--blue); }
 a:visited { color: var(--violet); }
-a:hover { text-decoration: none; }
+a:hover, summary:hover { text-decoration: none; }
 
 p, ul, ol, table, pre { margin: .5em 0; }
 
@@ -97,5 +97,7 @@ table { border: 0.1px solid var(--base1); border-collapse: collapse; }
 pre { overflow: auto; }
 
 hr { border: none; border-top: 1px dotted var(--base6); }
+
+summary { color: var(--magenta); cursor: pointer; text-decoration: underline; }
 
 @media screen and (max-width: 650px) { h1 { margin-top: 0em; } }
