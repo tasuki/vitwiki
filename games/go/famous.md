@@ -11,7 +11,7 @@ Made before AlphaGo. YMMV. I might add some newer games one day.
 	- At night, after the game, the emperor Nobunaga was killed. Since then the tripple ko is a bad sign. In the kifu there is no tripple ko, it is incomplete.
 - 1625 ★ [_Nakamura Doseki_ vs _Yasui Santetsu_ – W+](famous/1625.sgf)
 	- First move was, somewhat strangely, played on the side.
-- 1682 ★ [_Honinbo Dosaku (Meijin)_ vs _Peichin Hamahika_ (4handicap) – W+14](famous/1625.sgf)
+- 1682 ★ [_Honinbo Dosaku (Meijin)_ vs _Peichin Hamahika_ (4handicap) – W+14](famous/1682.sgf)
 	- First official international match, Peichin visited Japan, but he was crushed by the go-saint in four handicap.
 - 1683 ★★★★★ [_Honinbo Dosaku (Meijin)_ vs _Yasui Shunchi_ (2handicap) – B+1](famous/1683.sgf)
 	- Dosaku's masterpiece – 2 handicap lost by one point. Today's professionals say that the fuseki is aged, that today even amateurs would play it better, but in the middle game Shunchi played a sequence of excellent moves. How Dosaku was able to catch up to 1 point difference is nearly incomparable.
