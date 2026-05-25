@@ -69,3 +69,13 @@ Made before AlphaGo. YMMV. I might add some newer games one day.
 	- A *ko* dispute — White had more threats but had to connect anyway.
 - 2003 ★★★★ [_Hong Chang Sik_ vs _Lee Sedol_ – B+R](famous/2003.sgf)
 	- *The broken ladder game*. Lee Sedol intentionally played out a ladder which didn't work for him.
+- 2016-03-09 ★★★ [_AlphaGo_ vs _Lee Sedol_ – W+R](famous/2016-03-09.sgf)
+	- *First AI win against top pro*. Still in the "just bad luck" phase.
+- 2016-03-10 ★★★★★ [_Lee Sedol_ vs _AlphaGo_ – B+R](famous/2016-03-10.sgf)
+	- *Famous shoulder hit 37*. Humans starting to realize something's up.
+- 2016-03-12 ★★ [_AlphaGo_ vs _Lee Sedol_ – W+R](famous/2016-03-12.sgf)
+	- *We're used to losing now*. At least Lee Sedol tried an attack.
+- 2016-03-13 ★★★★★ [_Lee Sedol_ vs _AlphaGo_ – W+R](famous/2016-03-13.sgf)
+	- *Lee Sedol's famous wedge 78*. Humanity's last win!
+- 2016-03-15 ★★ [_AlphaGo_ vs _Lee Sedol_ – W+R](famous/2016-03-15.sgf)
+	- *No one remembers this one*. But it was a rather exciting one nevertheless!
