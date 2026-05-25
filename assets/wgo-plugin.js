@@ -5,10 +5,17 @@ window.onload = function() {
 		const summary = document.createElement('summary');
 		const content = document.createElement('div');
 		summary.textContent = 'replay ' + sgfFile;
-		content.setAttribute('data-wgo', sgfFile);
 
 		details.appendChild(summary);
 		details.appendChild(content);
 		link.insertAdjacentElement('afterend', details);
+
+		new WGo.BasicPlayer(content, {
+			sgfFile: sgfFile,
+			board: {
+				// NORMAL PAINTED GLOW SHELL MONO
+				stoneHandler: WGo.Board.drawHandlers.PAINTED
+			}
+		});
 	});
 }
