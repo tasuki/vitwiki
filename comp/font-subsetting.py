@@ -22,6 +22,7 @@ def subset_font(input_path, unicodes="0020-00FF", output_path=None, flavor="woff
     # 0080-00FF: latin supplement (western europe)
     # 0100-017F: latin extended-a (central europe)
     # 2000-206F: punctuation
+    # 2190-21FF: arrows
 
     args = [
         str(src),
@@ -36,7 +37,7 @@ def subset_font(input_path, unicodes="0020-00FF", output_path=None, flavor="woff
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Subset font files")
     parser.add_argument("files", nargs="+", help="Input font files")
-    parser.add_argument("--unicodes", default="0020-007F, 0080-00FF", help="Unicode ranges to include")
+    parser.add_argument("--unicodes", default="0020-007F, 0080-00FF, 0100-017F, 2000-206F, 2190-21FF", help="Unicode ranges to include")
     parser.add_argument("--out-dir", help="Output directory")
     parser.add_argument("--flavor", default="woff2", help="Output format (default: woff2)")
 

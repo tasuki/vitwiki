@@ -72,13 +72,39 @@
   src: url('/assets/fonts/jetbrains-mono-v13-latin-ext_latin-700.woff2') format('woff2');
 }
 
-html { background-color: var(--base0); color: var(--base5); color-scheme: light dark; font-family: Alegreya, serif; font-variant-numeric: tabular-nums; font-size: 18px; padding: 0px 10px; }
+@font-face {
+  font-family: 'Recursive Sans'; font-style: normal; font-weight: 400; font-display: swap;
+  src: url('/assets/fonts/recursive-sans-csl-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Recursive Sans'; font-style: italic; font-weight: 400; font-display: swap;
+  src: url('/assets/fonts/recursive-sans-csl-400i.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Recursive Sans'; font-style: normal; font-weight: 700; font-display: swap;
+  src: url('/assets/fonts/recursive-sans-csl-700.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Recursive Mono'; font-style: normal; font-weight: 400; font-display: swap;
+  src: url('/assets/fonts/recursive-mono-csl-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Recursive Mono'; font-style: italic; font-weight: 400; font-display: swap;
+  src: url('/assets/fonts/recursive-mono-csl-400i.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Recursive Mono'; font-style: normal; font-weight: 700; font-display: swap;
+  src: url('/assets/fonts/recursive-mono-csl-700.woff2') format('woff2');
+}
+
+html { background-color: var(--base0); color: var(--base5); color-scheme: light dark; font-family: "Recursive Sans", sans-serif; line-height: 1.5; font-size: 16px; padding: 0px 10px; }
 #content { max-width: 650px; margin: auto; }
-#footer { font-size: 15px; margin-top: 2em; }
+#footer { font-style: italic; font-size: 14px; margin-top: 2em; }
 #footer .item { white-space: nowrap; }
 
 pre { background: var(--bg-green); border-radius: 5px; padding: 2px 5px; }
-code { background: var(--bg-green); color: var(--green); font-family: "JetBrains Mono"; font-size: 16px; padding: 0 3px; border-radius: 5px; }
+code { background: var(--bg-green); color: var(--green); font-family: "Recursive Mono"; padding: 0 3px; border-radius: 5px; }
 pre code { padding: 0; }
 
 a:link { color: var(--blue); }
@@ -87,10 +113,10 @@ a:hover, summary:hover { text-decoration: none; }
 
 p, ul, ol, table, pre { margin: .5em 0; }
 
-h1, h2, h3, h4 { font-family: "Alegreya SC"; line-height: 1; margin-top: 1.5em; margin-bottom: 0em; }
-h1 { color: var(--orange); font-size: 30px; letter-spacing: -1px; }
+h1, h2, h3, h4 { line-height: 1.2; margin-top: 1.5em; margin-bottom: 0em; }
+h1 { color: var(--orange); font-size: 28px; letter-spacing: -1px; }
 h2 { color: var(--yellow); font-size: 24px; }
-h3, h4 { color: var(--base4); font-size: 18px; letter-spacing: 1px; }
+h3, h4 { color: var(--base4); font-size: 20px; }
 
 ul { list-style-type: "•  "; }
 ul, ol { padding-left: 25px; }
