@@ -1,5 +1,9 @@
 # Fully Vibe Coded Side Projects
 
+## 2026-06 [Go Sleep](https://tasuki.github.io/go-sleep/)
+
+Go, a game so boring you'll fall asleep.
+
 ## 2026-05 [Your Life In Weeks](https://tasuki.github.io/yliw/)
 
 Everyone does these and I hated their implementations, so [here's my LLM's implementation](https://github.com/tasuki/yliw). I use pi.dev with GPT 5.4 these days. It's ok. Can't get the sticky header right.
